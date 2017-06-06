@@ -1,0 +1,5246 @@
+{
+	"_id": {
+		"$oid": "XXXXXXXXXXXXXXXXXXXXXXXX"
+	},
+	"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+	"created_time": 1.480625888843e+12,
+	"assessment": {
+		"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"cookie": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"quiz_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"submissions": [
+			{
+				"text": "I would rather have a secure job with a normal salary than a high paying job that might not last.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I believe you can never be too careful.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like unpredictable situations.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "It is better to be a leader than a follower.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am not a thrill seeker.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Most of my friends are pretty ambitious.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like unpredictable people.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I save as much money for the future as I can.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I want to be the best at everything I do.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I prefer people who take calculated risks to those who always 'play it safe.'",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I believe in competition, so the best person can win.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am very safety conscious.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am usually thinking about how to get ahead, even when I am not working.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I dislike lazy, unambitious people.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am extremely careful in choosing the people with whom I associate.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am careful to run my affairs by the book.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I dislike people who have no desire to improve their status in life.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "The goal of life is to compete at something important and succeed.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I would like a new job every couple of years just for the challenge.",
+				"scale_code": "SEC",
+				"reversed": true,
+				"response": true
+			},
+			{
+				"text": "I am annoyed by people who won't work hard to get what they want.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Even in my spare time, I like challenges and competition.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like taking chances with my money.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am a better manager than most of the people I have worked for.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like people who are reckless.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I live by the old rule 'Better to be safe than sorry.'",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Most of my friends are pretty competitive.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I plan my future as carefully as possible.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I usually get my way with other people.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			}
+		],
+		"results": {
+			"scales": [
+				{
+					"scale": {
+						"name": "Security",
+						"code": "SEC",
+						"multiplier": 1
+					},
+					"raw_score": 2
+				},
+				{
+					"scale": {
+						"name": "Power",
+						"code": "POW",
+						"multiplier": -1
+					},
+					"raw_score": 3
+				}
+			],
+			"quiz": {
+				"raw_score": -1,
+				"evaluation": {
+					"percentile": 61,
+					"persona": {
+						"name": "Warrior",
+						"image": {
+							"likes": [
+								"Seinfeld"
+							],
+							"url": "https://imgur.com/sDugSCc.png",
+							"name": "Elaine Benes"
+						},
+						"feedback": "Your friends would all describe you as the ballsy one of your group. You’re motivated by power and notoriety, and you’re willing to take enormous risks to get there. Likely has good social skills and typically gets along well with others. Likely a relatively grounded person who values friendships, works hard, and has healthy life goals."
+					}
+				}
+			}
+		},
+		"created_time": 1.480625884641e+12,
+		"is_personalized": true,
+		"quiz": {
+			"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+			"name": "Warrior or Doomsday Prepper",
+			"published": true,
+			"scales": [
+				{
+					"name": "Security",
+					"code": "SEC",
+					"multiplier": 1
+				},
+				{
+					"name": "Power",
+					"code": "POW",
+					"multiplier": -1
+				}
+			],
+			"background_image": {
+				"url": "https://imgur.com/Oze72t2.png"
+			},
+			"personas": [
+				{
+					"name": "Warrior",
+					"image": [
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/eXotTOr.png",
+							"name": "Cersei Lannister"
+						},
+						{
+							"likes": [
+								"Seinfeld"
+							],
+							"url": "https://imgur.com/sDugSCc.png",
+							"name": "Elaine Benes"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/jWV4mYG.png",
+							"name": "Warrior"
+						}
+					],
+					"feedback": "Your friends would all describe you as the ballsy one of your group. You’re motivated by power and notoriety, and you’re willing to take enormous risks to get there."
+				},
+				{
+					"name": "Doomsday Prepper",
+					"image": [
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/vMNDbYg.png",
+							"name": "Catelyn Stark"
+						},
+						{
+							"likes": [
+								"Seinfeld"
+							],
+							"url": "https://imgur.com/xNJytzN.png",
+							"name": "George Costanza"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/wo2d5nr.png",
+							"name": "Doomsday Prepper"
+						}
+					],
+					"feedback": "Nobody you know would describe you as much of a risk-taker. Ambiguity makes you really uncomfortable, and you tend to spend an excessive amount of time weighing your options and making contingency plans before you make any sort of change in your life. Even then, you tend to hedge your bets and always have a backup plan when shit hits the fan."
+				}
+			],
+			"items": [
+				{
+					"text": "I would rather have a secure job with a normal salary than a high paying job that might not last.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I believe you can never be too careful.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I don't like unpredictable situations.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "It is better to be a leader than a follower.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I am not a thrill seeker.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "Most of my friends are pretty ambitious.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I don't like unpredictable people.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I save as much money for the future as I can.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I want to be the best at everything I do.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I prefer people who take calculated risks to those who always 'play it safe.'",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I believe in competition, so the best person can win.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I am very safety conscious.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I am usually thinking about how to get ahead, even when I am not working.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I dislike lazy, unambitious people.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I am extremely careful in choosing the people with whom I associate.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I am careful to run my affairs by the book.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I dislike people who have no desire to improve their status in life.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "The goal of life is to compete at something important and succeed.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I would like a new job every couple of years just for the challenge.",
+					"scale_code": "SEC",
+					"reversed": true
+				},
+				{
+					"text": "I am annoyed by people who won't work hard to get what they want.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "Even in my spare time, I like challenges and competition.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I don't like taking chances with my money.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I am a better manager than most of the people I have worked for.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who are reckless.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I live by the old rule 'Better to be safe than sorry.'",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "Most of my friends are pretty competitive.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I plan my future as carefully as possible.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I usually get my way with other people.",
+					"scale_code": "POW",
+					"reversed": false
+				}
+			],
+			"scorer": {
+				"0": {
+					"percentile": 55,
+					"persona_name": "Warrior"
+				},
+				"1": {
+					"percentile": 51,
+					"persona_name": "Doomsday Prepper"
+				},
+				"2": {
+					"percentile": 57,
+					"persona_name": "Doomsday Prepper"
+				},
+				"3": {
+					"percentile": 63,
+					"persona_name": "Doomsday Prepper"
+				},
+				"4": {
+					"percentile": 69,
+					"persona_name": "Doomsday Prepper"
+				},
+				"5": {
+					"percentile": 75,
+					"persona_name": "Doomsday Prepper"
+				},
+				"6": {
+					"percentile": 79,
+					"persona_name": "Doomsday Prepper"
+				},
+				"7": {
+					"percentile": 83,
+					"persona_name": "Doomsday Prepper"
+				},
+				"8": {
+					"percentile": 87,
+					"persona_name": "Doomsday Prepper"
+				},
+				"9": {
+					"percentile": 90,
+					"persona_name": "Doomsday Prepper"
+				},
+				"10": {
+					"percentile": 93,
+					"persona_name": "Doomsday Prepper"
+				},
+				"11": {
+					"percentile": 95,
+					"persona_name": "Doomsday Prepper"
+				},
+				"12": {
+					"percentile": 96,
+					"persona_name": "Doomsday Prepper"
+				},
+				"13": {
+					"percentile": 97,
+					"persona_name": "Doomsday Prepper"
+				},
+				"14": {
+					"percentile": 99,
+					"persona_name": "Doomsday Prepper"
+				},
+				"-1": {
+					"percentile": 61,
+					"persona_name": "Warrior"
+				},
+				"-2": {
+					"percentile": 67,
+					"persona_name": "Warrior"
+				},
+				"-3": {
+					"percentile": 73,
+					"persona_name": "Warrior"
+				},
+				"-4": {
+					"percentile": 77,
+					"persona_name": "Warrior"
+				},
+				"-5": {
+					"percentile": 82,
+					"persona_name": "Warrior"
+				},
+				"-6": {
+					"percentile": 86,
+					"persona_name": "Warrior"
+				},
+				"-7": {
+					"percentile": 89,
+					"persona_name": "Warrior"
+				},
+				"-8": {
+					"percentile": 93,
+					"persona_name": "Warrior"
+				},
+				"-9": {
+					"percentile": 94,
+					"persona_name": "Warrior"
+				},
+				"-10": {
+					"percentile": 96,
+					"persona_name": "Warrior"
+				},
+				"-11": {
+					"percentile": 97,
+					"persona_name": "Warrior"
+				},
+				"-12": {
+					"percentile": 98,
+					"persona_name": "Warrior"
+				},
+				"-13": {
+					"percentile": 98,
+					"persona_name": "Warrior"
+				},
+				"-14": {
+					"percentile": 99,
+					"persona_name": "Warrior"
+				}
+			}
+		}
+	},
+	"num_friends": 308,
+	"page_likes": [
+		{
+			"id": "6939574006",
+			"name": "Batman"
+		},
+		{
+			"id": "9023924452",
+			"name": "Seinfeld"
+		},
+		{
+			"id": "22577904575",
+			"name": "FRIENDS (TV Show)"
+		},
+		{
+			"id": "640670299346390",
+			"name": "School of Data"
+		},
+		{
+			"id": "593609110723919",
+			"name": "Data Center College of the Philippines-Baguio"
+		},
+		{
+			"id": "1109804155711084",
+			"name": "Data24.com.ar"
+		},
+		{
+			"id": "747600545347617",
+			"name": "Open  Data  Nation"
+		},
+		{
+			"id": "452567721430408",
+			"name": "DataNitro"
+		},
+		{
+			"id": "110852525667327",
+			"name": "DataXu"
+		},
+		{
+			"id": "663957870316253",
+			"name": "Data-Smoke"
+		},
+		{
+			"id": "1556374471294462",
+			"name": "Open Data Science Conference"
+		},
+		{
+			"id": "131722586905303",
+			"name": "Data driven journalism"
+		},
+		{
+			"id": "164243576951466",
+			"name": "DataGenetics"
+		},
+		{
+			"id": "112195622130706",
+			"name": "Data mining"
+		},
+		{
+			"id": "966219366748744",
+			"name": "Data Science Academy"
+		},
+		{
+			"id": "666228420104988",
+			"name": "DataBot"
+		},
+		{
+			"id": "32352317445",
+			"name": "DatA"
+		},
+		{
+			"id": "726282547396228",
+			"name": "DataCamp"
+		},
+		{
+			"id": "272867689463294",
+			"name": "DataKind"
+		},
+		{
+			"id": "123742390997899",
+			"name": "DataCore Software"
+		},
+		{
+			"id": "180668292141237",
+			"name": "Data \u0026 Society Research Institute"
+		},
+		{
+			"id": "126721414070620",
+			"name": "DataStax"
+		},
+		{
+			"id": "550398798313402",
+			"name": "Data.Chaco"
+		},
+		{
+			"id": "106056532758160",
+			"name": "Data (Star Trek)"
+		},
+		{
+			"id": "104109636293141",
+			"name": "Data analysis"
+		},
+		{
+			"id": "431299473579193",
+			"name": "Data science"
+		},
+		{
+			"id": "1439562533022638",
+			"name": "Data Discs"
+		},
+		{
+			"id": "113735218637163",
+			"name": "Data warehouse"
+		},
+		{
+			"id": "348916581961058",
+			"name": "Data Movil"
+		},
+		{
+			"id": "343774964377",
+			"name": "Data Garden"
+		},
+		{
+			"id": "667903843342107",
+			"name": "DataGueule"
+		},
+		{
+			"id": "104067049628442",
+			"name": "Data visualization"
+		},
+		{
+			"id": "436671573016220",
+			"name": "Insight Data Science"
+		},
+		{
+			"id": "116292905180055",
+			"name": "DataBlitz"
+		},
+		{
+			"id": "1710083055891989",
+			"name": "Data Unisex instagram data.unisex"
+		},
+		{
+			"id": "161874740499059",
+			"name": "Data Connectors"
+		},
+		{
+			"id": "891296094324095",
+			"name": "DataMapper"
+		},
+		{
+			"id": "384506808321474",
+			"name": "Data Science at Berkeley"
+		},
+		{
+			"id": "8394258414",
+			"name": "Facebook Data Science"
+		},
+		{
+			"id": "787163124721659",
+			"name": "Facebook Marketplace Community"
+		},
+		{
+			"id": "9465008123",
+			"name": "Amazon.com"
+		},
+		{
+			"id": "384160918274249",
+			"name": "GooG Gallery"
+		},
+		{
+			"id": "142405469104684",
+			"name": "AT\u0026T U-verse"
+		},
+		{
+			"id": "8576093908",
+			"name": "AT\u0026T"
+		},
+		{
+			"id": "925007000949719",
+			"name": "ExxonMobil"
+		},
+		{
+			"id": "1677727332468068",
+			"name": "React-Native"
+		},
+		{
+			"id": "876571465697767",
+			"name": "WebRTC Gateway"
+		},
+		{
+			"id": "125432187541505",
+			"name": "WebRTC"
+		},
+		{
+			"id": "1665668970322848",
+			"name": "MongodbSupport"
+		},
+		{
+			"id": "397955415556",
+			"name": "MongoDB"
+		},
+		{
+			"id": "1060755477296423",
+			"name": "GraphQL Hub"
+		},
+		{
+			"id": "1860893750863029",
+			"name": "GraphQL"
+		},
+		{
+			"id": "1538734613085283",
+			"name": "GraphQL"
+		},
+		{
+			"id": "474430329375431",
+			"name": "React"
+		},
+		{
+			"id": "19292868552",
+			"name": "Facebook for Developers"
+		},
+		{
+			"id": "554533078052731",
+			"name": "Duo (app)"
+		},
+		{
+			"id": "226357794130335",
+			"name": "Google Play Store"
+		},
+		{
+			"id": "105630346137905",
+			"name": "Google Street View"
+		},
+		{
+			"id": "206162352791386",
+			"name": "Google Drive"
+		},
+		{
+			"id": "709585315763666",
+			"name": "Google Cardboard"
+		},
+		{
+			"id": "102258288460",
+			"name": "Google Analytics"
+		},
+		{
+			"id": "734382209918562",
+			"name": "Google Classroom"
+		},
+		{
+			"id": "105640792804209",
+			"name": "Google Translate"
+		},
+		{
+			"id": "15279704057",
+			"name": "Google Maps"
+		},
+		{
+			"id": "104958162837",
+			"name": "Google"
+		},
+		{
+			"id": "321662419491",
+			"name": "Google Chrome"
+		},
+		{
+			"id": "203906229622591",
+			"name": "TED-Ed"
+		},
+		{
+			"id": "37763684202",
+			"name": "The Daily Beast"
+		},
+		{
+			"id": "5550296508",
+			"name": "CNN"
+		},
+		{
+			"id": "41911143546",
+			"name": "The Linux Foundation"
+		},
+		{
+			"id": "188064381236919",
+			"name": "NodeJS"
+		},
+		{
+			"id": "132640106759624",
+			"name": "Node.js"
+		},
+		{
+			"id": "399410916935242",
+			"name": "Reactive Conference"
+		},
+		{
+			"id": "8062627951",
+			"name": "TechCrunch"
+		},
+		{
+			"id": "176587952408664",
+			"name": "Ballin' on a Budget"
+		},
+		{
+			"id": "497424700459466",
+			"name": "Startsomething LLC"
+		},
+		{
+			"id": "251927771522338",
+			"name": "COCO - West Loop"
+		},
+		{
+			"id": "302600436514474",
+			"name": "Dendrityx"
+		},
+		{
+			"id": "432909653411459",
+			"name": "PDS Alums"
+		},
+		{
+			"id": "491199330894674",
+			"name": "Toast Inc"
+		}
+	],
+	"post_analysis": {
+		"liwc_scores": {
+			"tone": 87.72641,
+			"sixLtr": 0.2536232,
+			"clout": 84.48792,
+			"wps": 15.333333,
+			"analytic": 79.55318,
+			"wc": 414,
+			"dic": 0.7705314,
+			"authentic": 26.043097,
+			"categories": {
+				"family": 0,
+				"feel": 0.002415459,
+				"money": 0.009661836,
+				"insight": 0.009661836,
+				"number": 0.04347826,
+				"Parenth": 0,
+				"cogproc": 0.057971016,
+				"OtherP": 0.012077294,
+				"female": 0,
+				"negate": 0.007246377,
+				"negemo": 0.009661836,
+				"differ": 0.009661836,
+				"death": 0,
+				"adverb": 0.04347826,
+				"informal": 0.026570048,
+				"ipron": 0.057971016,
+				"percept": 0.004830918,
+				"quant": 0.016908212,
+				"Exclam": 0.028985508,
+				"adj": 0.028985508,
+				"prep": 0.13043478,
+				"friend": 0,
+				"function": 0.42028984,
+				"bio": 0.026570048,
+				"risk": 0,
+				"leisure": 0.019323671,
+				"Quote": 0,
+				"verb": 0.16425121,
+				"hear": 0,
+				"they": 0.004830918,
+				"affect": 0.055555556,
+				"you": 0.012077294,
+				"work": 0.11594203,
+				"Period": 0.07004831,
+				"achieve": 0.009661836,
+				"focusfuture": 0.012077294,
+				"auxverb": 0.055555556,
+				"male": 0,
+				"shehe": 0,
+				"SemiC": 0,
+				"relig": 0,
+				"compare": 0.004830918,
+				"pronoun": 0.13285024,
+				"QMark": 0.007246377,
+				"certain": 0.007246377,
+				"assent": 0,
+				"we": 0.026570048,
+				"sad": 0,
+				"affiliation": 0.07971015,
+				"see": 0.002415459,
+				"anger": 0.007246377,
+				"home": 0,
+				"conj": 0.02173913,
+				"sexual": 0,
+				"ppron": 0.07487923,
+				"Dash": 0.026570048,
+				"space": 0.07971015,
+				"filler": 0,
+				"anx": 0,
+				"focuspresent": 0.09178744,
+				"netspeak": 0.024154589,
+				"health": 0.004830918,
+				"discrep": 0,
+				"relativ": 0.12077295,
+				"Colon": 0.002415459,
+				"nonflu": 0.002415459,
+				"cause": 0.019323671,
+				"body": 0,
+				"tentat": 0.016908212,
+				"power": 0.014492754,
+				"interrog": 0.016908212,
+				"social": 0.11111111,
+				"drives": 0.11111111,
+				"focuspast": 0.007246377,
+				"article": 0.041062802,
+				"AllPunc": 0.16183574,
+				"Apostro": 0.009661836,
+				"i": 0.031400967,
+				"posemo": 0.04589372,
+				"ingest": 0.02173913,
+				"motion": 0.02173913,
+				"swear": 0,
+				"Comma": 0.004830918,
+				"time": 0.024154589,
+				"reward": 0.009661836
+			}
+		},
+		"receptiviti_scores": {
+			"percentiles": {
+				"netspeak_focus": 93.11324621214712,
+				"body_focus": 26.88932439562619,
+				"conscientious": 89.42656502661877,
+				"family_oriented": 18.595817332639232,
+				"neuroticism": 1,
+				"social_skills": 30.896945623040992,
+				"openness": 26.71813632794678,
+				"cold": 47.18739052064335,
+				"sexual_focus": 38.59850307933812,
+				"religion_oriented": 35.14827527205458,
+				"happiness": 51.695495123820784,
+				"food_focus": 99,
+				"adjustment": 99,
+				"achievement_driven": 60.165015103146786,
+				"friend_focus": 30.301344646823317,
+				"extraversion": 90.78097443004596,
+				"depression": 6.3744127142193605,
+				"agreeable": 53.226428025112234,
+				"independent": 61.11329410293001,
+				"type_a": 96.98978116374278,
+				"workhorse": 69.93734902076991,
+				"reward_bias": 36.51834207459207,
+				"insecure": 8.605919719005174,
+				"leisure_oriented": 90.21789897717365,
+				"impulsive": 25.40430800992629,
+				"thinking_style": 95.67209581839555,
+				"persuasive": 94.64414366353608,
+				"power_driven": 72.19667055957942,
+				"money_oriented": 72.58157266771092,
+				"health_oriented": 60.722684959853915,
+				"work_oriented": 84.07462308539698
+			},
+			"raw_scores": {
+				"netspeak_focus": 2.4154589,
+				"body_focus": 0,
+				"conscientious": 2.3838701478441235,
+				"family_oriented": 1.9061598743641632,
+				"neuroticism": -0.9316483236595499,
+				"social_skills": 0.9596780026595213,
+				"openness": 1.2021877671432513,
+				"cold": -1.148887128723636,
+				"sexual_focus": 0,
+				"religion_oriented": 0,
+				"happiness": 5.383250521194872,
+				"food_focus": 2.1739129999999998,
+				"adjustment": 1.6662773730371612,
+				"achievement_driven": 4.657542818264134,
+				"friend_focus": 0,
+				"extraversion": 4.475920380879042,
+				"depression": -1.3715728226623187,
+				"agreeable": 0.0452582215096029,
+				"independent": -4.414607477655571,
+				"type_a": 10.829524593225575,
+				"workhorse": -1.4876493431770696,
+				"reward_bias": 0.9661836,
+				"insecure": -1.4958986565350698,
+				"leisure_oriented": 1.9323671,
+				"impulsive": 0.6758908088812738,
+				"thinking_style": 0.7821265792726622,
+				"persuasive": 2.608645305227462,
+				"power_driven": 6.4361632363375145,
+				"money_oriented": 0.9661836,
+				"health_oriented": 0.4830918,
+				"work_oriented": 2.5
+			},
+			"warnings": {}
+		},
+		"personality_snapshot": [
+			{
+				"description": "Likely has good social skills and typically gets along well with others. Likely a relatively grounded person who values friendships, works hard, and has healthy life goals.",
+				"summary": "Well-adjusted"
+			},
+			{
+				"description": "Able to face stressful situations without becoming upset or rattled. Remains calm most of the time, rarely gets irate, and is not easily embarrassed.",
+				"summary": "Calm and collected"
+			},
+			{
+				"description": "Likely a workaholic with a very intense drive to succeed. May often talk over and interrupt other people, can be lacking in patience, frequently stressed, and may have a short temper.",
+				"summary": "Type A"
+			}
+		],
+		"communication_recommendation": "Don't be afraid to use humor to lighten the conversation. They may get impatient if you're moving too slowly. Get to the point quickly and don't waste their time."
+	}
+}
+{
+	"_id": {
+		"$oid": "XXXXXXXXXXXXXXXXXXXXXXXX"
+	},
+	"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+	"created_time": 1.48062595762e+12,
+	"assessment": {
+		"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"cookie": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"quiz_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"submissions": [
+			{
+				"text": "I would rather have a secure job with a normal salary than a high paying job that might not last.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I believe you can never be too careful.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like unpredictable situations.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "It is better to be a leader than a follower.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am not a thrill seeker.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Most of my friends are pretty ambitious.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like unpredictable people.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I save as much money for the future as I can.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I want to be the best at everything I do.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I prefer people who take calculated risks to those who always 'play it safe.'",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I believe in competition, so the best person can win.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am very safety conscious.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am usually thinking about how to get ahead, even when I am not working.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I dislike lazy, unambitious people.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am extremely careful in choosing the people with whom I associate.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am careful to run my affairs by the book.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I dislike people who have no desire to improve their status in life.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "The goal of life is to compete at something important and succeed.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I would like a new job every couple of years just for the challenge.",
+				"scale_code": "SEC",
+				"reversed": true,
+				"response": false
+			},
+			{
+				"text": "I am annoyed by people who won't work hard to get what they want.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Even in my spare time, I like challenges and competition.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like taking chances with my money.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am a better manager than most of the people I have worked for.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like people who are reckless.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I live by the old rule 'Better to be safe than sorry.'",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Most of my friends are pretty competitive.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I plan my future as carefully as possible.",
+				"scale_code": "SEC",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I usually get my way with other people.",
+				"scale_code": "POW",
+				"reversed": false,
+				"response": false
+			}
+		],
+		"results": {
+			"scales": [
+				{
+					"scale": {
+						"name": "Security",
+						"code": "SEC",
+						"multiplier": 1
+					},
+					"raw_score": 1
+				},
+				{
+					"scale": {
+						"name": "Power",
+						"code": "POW",
+						"multiplier": -1
+					},
+					"raw_score": 0
+				}
+			],
+			"quiz": {
+				"raw_score": 1,
+				"evaluation": {
+					"percentile": 51,
+					"persona": {
+						"name": "Doomsday Prepper",
+						"image": [
+							{
+								"likes": [
+									"Game of Thrones",
+									"Game of Thrones Fans",
+									"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+								],
+								"url": "https://imgur.com/vMNDbYg.png",
+								"name": "Catelyn Stark"
+							},
+							{
+								"likes": [
+									"Seinfeld"
+								],
+								"url": "https://imgur.com/xNJytzN.png",
+								"name": "George Costanza"
+							},
+							{
+								"likes": [],
+								"url": "https://imgur.com/wo2d5nr.png",
+								"name": "Doomsday Prepper"
+							}
+						],
+						"feedback": "Nobody you know would describe you as much of a risk-taker. Ambiguity makes you really uncomfortable, and you tend to spend an excessive amount of time weighing your options and making contingency plans before you make any sort of change in your life. Even then, you tend to hedge your bets and always have a backup plan when shit hits the fan."
+					}
+				}
+			}
+		},
+		"created_time": 1.480625954548e+12,
+		"is_personalized": false,
+		"quiz": {
+			"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+			"name": "Warrior or Doomsday Prepper",
+			"published": true,
+			"scales": [
+				{
+					"name": "Security",
+					"code": "SEC",
+					"multiplier": 1
+				},
+				{
+					"name": "Power",
+					"code": "POW",
+					"multiplier": -1
+				}
+			],
+			"background_image": {
+				"url": "https://imgur.com/Oze72t2.png"
+			},
+			"personas": [
+				{
+					"name": "Warrior",
+					"image": [
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/eXotTOr.png",
+							"name": "Cersei Lannister"
+						},
+						{
+							"likes": [
+								"Seinfeld"
+							],
+							"url": "https://imgur.com/sDugSCc.png",
+							"name": "Elaine Benes"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/jWV4mYG.png",
+							"name": "Warrior"
+						}
+					],
+					"feedback": "Your friends would all describe you as the ballsy one of your group. You’re motivated by power and notoriety, and you’re willing to take enormous risks to get there."
+				},
+				{
+					"name": "Doomsday Prepper",
+					"image": [
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/vMNDbYg.png",
+							"name": "Catelyn Stark"
+						},
+						{
+							"likes": [
+								"Seinfeld"
+							],
+							"url": "https://imgur.com/xNJytzN.png",
+							"name": "George Costanza"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/wo2d5nr.png",
+							"name": "Doomsday Prepper"
+						}
+					],
+					"feedback": "Nobody you know would describe you as much of a risk-taker. Ambiguity makes you really uncomfortable, and you tend to spend an excessive amount of time weighing your options and making contingency plans before you make any sort of change in your life. Even then, you tend to hedge your bets and always have a backup plan when shit hits the fan."
+				}
+			],
+			"items": [
+				{
+					"text": "I would rather have a secure job with a normal salary than a high paying job that might not last.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I believe you can never be too careful.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I don't like unpredictable situations.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "It is better to be a leader than a follower.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I am not a thrill seeker.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "Most of my friends are pretty ambitious.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I don't like unpredictable people.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I save as much money for the future as I can.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I want to be the best at everything I do.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I prefer people who take calculated risks to those who always 'play it safe.'",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I believe in competition, so the best person can win.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I am very safety conscious.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I am usually thinking about how to get ahead, even when I am not working.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I dislike lazy, unambitious people.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I am extremely careful in choosing the people with whom I associate.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I am careful to run my affairs by the book.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I dislike people who have no desire to improve their status in life.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "The goal of life is to compete at something important and succeed.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I would like a new job every couple of years just for the challenge.",
+					"scale_code": "SEC",
+					"reversed": true
+				},
+				{
+					"text": "I am annoyed by people who won't work hard to get what they want.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "Even in my spare time, I like challenges and competition.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I don't like taking chances with my money.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I am a better manager than most of the people I have worked for.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who are reckless.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I live by the old rule 'Better to be safe than sorry.'",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "Most of my friends are pretty competitive.",
+					"scale_code": "POW",
+					"reversed": false
+				},
+				{
+					"text": "I plan my future as carefully as possible.",
+					"scale_code": "SEC",
+					"reversed": false
+				},
+				{
+					"text": "I usually get my way with other people.",
+					"scale_code": "POW",
+					"reversed": false
+				}
+			],
+			"scorer": {
+				"0": {
+					"percentile": 55,
+					"persona_name": "Warrior"
+				},
+				"1": {
+					"percentile": 51,
+					"persona_name": "Doomsday Prepper"
+				},
+				"2": {
+					"percentile": 57,
+					"persona_name": "Doomsday Prepper"
+				},
+				"3": {
+					"percentile": 63,
+					"persona_name": "Doomsday Prepper"
+				},
+				"4": {
+					"percentile": 69,
+					"persona_name": "Doomsday Prepper"
+				},
+				"5": {
+					"percentile": 75,
+					"persona_name": "Doomsday Prepper"
+				},
+				"6": {
+					"percentile": 79,
+					"persona_name": "Doomsday Prepper"
+				},
+				"7": {
+					"percentile": 83,
+					"persona_name": "Doomsday Prepper"
+				},
+				"8": {
+					"percentile": 87,
+					"persona_name": "Doomsday Prepper"
+				},
+				"9": {
+					"percentile": 90,
+					"persona_name": "Doomsday Prepper"
+				},
+				"10": {
+					"percentile": 93,
+					"persona_name": "Doomsday Prepper"
+				},
+				"11": {
+					"percentile": 95,
+					"persona_name": "Doomsday Prepper"
+				},
+				"12": {
+					"percentile": 96,
+					"persona_name": "Doomsday Prepper"
+				},
+				"13": {
+					"percentile": 97,
+					"persona_name": "Doomsday Prepper"
+				},
+				"14": {
+					"percentile": 99,
+					"persona_name": "Doomsday Prepper"
+				},
+				"-1": {
+					"percentile": 61,
+					"persona_name": "Warrior"
+				},
+				"-2": {
+					"percentile": 67,
+					"persona_name": "Warrior"
+				},
+				"-3": {
+					"percentile": 73,
+					"persona_name": "Warrior"
+				},
+				"-4": {
+					"percentile": 77,
+					"persona_name": "Warrior"
+				},
+				"-5": {
+					"percentile": 82,
+					"persona_name": "Warrior"
+				},
+				"-6": {
+					"percentile": 86,
+					"persona_name": "Warrior"
+				},
+				"-7": {
+					"percentile": 89,
+					"persona_name": "Warrior"
+				},
+				"-8": {
+					"percentile": 93,
+					"persona_name": "Warrior"
+				},
+				"-9": {
+					"percentile": 94,
+					"persona_name": "Warrior"
+				},
+				"-10": {
+					"percentile": 96,
+					"persona_name": "Warrior"
+				},
+				"-11": {
+					"percentile": 97,
+					"persona_name": "Warrior"
+				},
+				"-12": {
+					"percentile": 98,
+					"persona_name": "Warrior"
+				},
+				"-13": {
+					"percentile": 98,
+					"persona_name": "Warrior"
+				},
+				"-14": {
+					"percentile": 99,
+					"persona_name": "Warrior"
+				}
+			}
+		}
+	},
+	"num_friends": 308,
+	"page_likes": [
+		{
+			"id": "640670299346390",
+			"name": "School of Data"
+		},
+		{
+			"id": "593609110723919",
+			"name": "Data Center College of the Philippines-Baguio"
+		},
+		{
+			"id": "1109804155711084",
+			"name": "Data24.com.ar"
+		},
+		{
+			"id": "747600545347617",
+			"name": "Open  Data  Nation"
+		},
+		{
+			"id": "452567721430408",
+			"name": "DataNitro"
+		},
+		{
+			"id": "110852525667327",
+			"name": "DataXu"
+		},
+		{
+			"id": "663957870316253",
+			"name": "Data-Smoke"
+		},
+		{
+			"id": "1556374471294462",
+			"name": "Open Data Science Conference"
+		},
+		{
+			"id": "131722586905303",
+			"name": "Data driven journalism"
+		},
+		{
+			"id": "164243576951466",
+			"name": "DataGenetics"
+		},
+		{
+			"id": "112195622130706",
+			"name": "Data mining"
+		},
+		{
+			"id": "966219366748744",
+			"name": "Data Science Academy"
+		},
+		{
+			"id": "666228420104988",
+			"name": "DataBot"
+		},
+		{
+			"id": "32352317445",
+			"name": "DatA"
+		},
+		{
+			"id": "726282547396228",
+			"name": "DataCamp"
+		},
+		{
+			"id": "272867689463294",
+			"name": "DataKind"
+		},
+		{
+			"id": "123742390997899",
+			"name": "DataCore Software"
+		},
+		{
+			"id": "180668292141237",
+			"name": "Data \u0026 Society Research Institute"
+		},
+		{
+			"id": "126721414070620",
+			"name": "DataStax"
+		},
+		{
+			"id": "550398798313402",
+			"name": "Data.Chaco"
+		},
+		{
+			"id": "106056532758160",
+			"name": "Data (Star Trek)"
+		},
+		{
+			"id": "104109636293141",
+			"name": "Data analysis"
+		},
+		{
+			"id": "431299473579193",
+			"name": "Data science"
+		},
+		{
+			"id": "1439562533022638",
+			"name": "Data Discs"
+		},
+		{
+			"id": "113735218637163",
+			"name": "Data warehouse"
+		},
+		{
+			"id": "348916581961058",
+			"name": "Data Movil"
+		},
+		{
+			"id": "343774964377",
+			"name": "Data Garden"
+		},
+		{
+			"id": "667903843342107",
+			"name": "DataGueule"
+		},
+		{
+			"id": "104067049628442",
+			"name": "Data visualization"
+		},
+		{
+			"id": "436671573016220",
+			"name": "Insight Data Science"
+		},
+		{
+			"id": "116292905180055",
+			"name": "DataBlitz"
+		},
+		{
+			"id": "1710083055891989",
+			"name": "Data Unisex instagram data.unisex"
+		},
+		{
+			"id": "161874740499059",
+			"name": "Data Connectors"
+		},
+		{
+			"id": "891296094324095",
+			"name": "DataMapper"
+		},
+		{
+			"id": "384506808321474",
+			"name": "Data Science at Berkeley"
+		},
+		{
+			"id": "8394258414",
+			"name": "Facebook Data Science"
+		},
+		{
+			"id": "787163124721659",
+			"name": "Facebook Marketplace Community"
+		},
+		{
+			"id": "9465008123",
+			"name": "Amazon.com"
+		},
+		{
+			"id": "384160918274249",
+			"name": "GooG Gallery"
+		},
+		{
+			"id": "142405469104684",
+			"name": "AT\u0026T U-verse"
+		},
+		{
+			"id": "8576093908",
+			"name": "AT\u0026T"
+		},
+		{
+			"id": "925007000949719",
+			"name": "ExxonMobil"
+		},
+		{
+			"id": "1677727332468068",
+			"name": "React-Native"
+		},
+		{
+			"id": "876571465697767",
+			"name": "WebRTC Gateway"
+		},
+		{
+			"id": "125432187541505",
+			"name": "WebRTC"
+		},
+		{
+			"id": "1665668970322848",
+			"name": "MongodbSupport"
+		},
+		{
+			"id": "397955415556",
+			"name": "MongoDB"
+		},
+		{
+			"id": "1060755477296423",
+			"name": "GraphQL Hub"
+		},
+		{
+			"id": "1860893750863029",
+			"name": "GraphQL"
+		},
+		{
+			"id": "1538734613085283",
+			"name": "GraphQL"
+		},
+		{
+			"id": "474430329375431",
+			"name": "React"
+		},
+		{
+			"id": "19292868552",
+			"name": "Facebook for Developers"
+		},
+		{
+			"id": "554533078052731",
+			"name": "Duo (app)"
+		},
+		{
+			"id": "226357794130335",
+			"name": "Google Play Store"
+		},
+		{
+			"id": "105630346137905",
+			"name": "Google Street View"
+		},
+		{
+			"id": "206162352791386",
+			"name": "Google Drive"
+		},
+		{
+			"id": "709585315763666",
+			"name": "Google Cardboard"
+		},
+		{
+			"id": "102258288460",
+			"name": "Google Analytics"
+		},
+		{
+			"id": "734382209918562",
+			"name": "Google Classroom"
+		},
+		{
+			"id": "105640792804209",
+			"name": "Google Translate"
+		},
+		{
+			"id": "15279704057",
+			"name": "Google Maps"
+		},
+		{
+			"id": "104958162837",
+			"name": "Google"
+		},
+		{
+			"id": "321662419491",
+			"name": "Google Chrome"
+		},
+		{
+			"id": "203906229622591",
+			"name": "TED-Ed"
+		},
+		{
+			"id": "37763684202",
+			"name": "The Daily Beast"
+		},
+		{
+			"id": "5550296508",
+			"name": "CNN"
+		},
+		{
+			"id": "41911143546",
+			"name": "The Linux Foundation"
+		},
+		{
+			"id": "188064381236919",
+			"name": "NodeJS"
+		},
+		{
+			"id": "132640106759624",
+			"name": "Node.js"
+		},
+		{
+			"id": "399410916935242",
+			"name": "Reactive Conference"
+		},
+		{
+			"id": "8062627951",
+			"name": "TechCrunch"
+		},
+		{
+			"id": "176587952408664",
+			"name": "Ballin' on a Budget"
+		},
+		{
+			"id": "497424700459466",
+			"name": "Startsomething LLC"
+		},
+		{
+			"id": "251927771522338",
+			"name": "COCO - West Loop"
+		},
+		{
+			"id": "302600436514474",
+			"name": "Dendrityx"
+		},
+		{
+			"id": "432909653411459",
+			"name": "PDS Alums"
+		},
+		{
+			"id": "491199330894674",
+			"name": "Toast Inc"
+		}
+	],
+	"post_analysis": {
+		"liwc_scores": {
+			"tone": 87.72641,
+			"sixLtr": 0.2536232,
+			"clout": 84.48792,
+			"wps": 15.333333,
+			"analytic": 79.55318,
+			"wc": 414,
+			"dic": 0.7705314,
+			"authentic": 26.043097,
+			"categories": {
+				"family": 0,
+				"feel": 0.002415459,
+				"money": 0.009661836,
+				"insight": 0.009661836,
+				"number": 0.04347826,
+				"Parenth": 0,
+				"cogproc": 0.057971016,
+				"OtherP": 0.012077294,
+				"female": 0,
+				"negate": 0.007246377,
+				"negemo": 0.009661836,
+				"differ": 0.009661836,
+				"death": 0,
+				"adverb": 0.04347826,
+				"informal": 0.026570048,
+				"ipron": 0.057971016,
+				"percept": 0.004830918,
+				"quant": 0.016908212,
+				"Exclam": 0.028985508,
+				"adj": 0.028985508,
+				"prep": 0.13043478,
+				"friend": 0,
+				"function": 0.42028984,
+				"bio": 0.026570048,
+				"risk": 0,
+				"leisure": 0.019323671,
+				"Quote": 0,
+				"verb": 0.16425121,
+				"hear": 0,
+				"they": 0.004830918,
+				"affect": 0.055555556,
+				"you": 0.012077294,
+				"work": 0.11594203,
+				"Period": 0.07004831,
+				"achieve": 0.009661836,
+				"focusfuture": 0.012077294,
+				"auxverb": 0.055555556,
+				"male": 0,
+				"shehe": 0,
+				"SemiC": 0,
+				"relig": 0,
+				"compare": 0.004830918,
+				"pronoun": 0.13285024,
+				"QMark": 0.007246377,
+				"certain": 0.007246377,
+				"assent": 0,
+				"we": 0.026570048,
+				"sad": 0,
+				"affiliation": 0.07971015,
+				"see": 0.002415459,
+				"anger": 0.007246377,
+				"home": 0,
+				"conj": 0.02173913,
+				"sexual": 0,
+				"ppron": 0.07487923,
+				"Dash": 0.026570048,
+				"space": 0.07971015,
+				"filler": 0,
+				"anx": 0,
+				"focuspresent": 0.09178744,
+				"netspeak": 0.024154589,
+				"health": 0.004830918,
+				"discrep": 0,
+				"relativ": 0.12077295,
+				"Colon": 0.002415459,
+				"nonflu": 0.002415459,
+				"cause": 0.019323671,
+				"body": 0,
+				"tentat": 0.016908212,
+				"power": 0.014492754,
+				"interrog": 0.016908212,
+				"social": 0.11111111,
+				"drives": 0.11111111,
+				"focuspast": 0.007246377,
+				"article": 0.041062802,
+				"AllPunc": 0.16183574,
+				"Apostro": 0.009661836,
+				"i": 0.031400967,
+				"posemo": 0.04589372,
+				"ingest": 0.02173913,
+				"motion": 0.02173913,
+				"swear": 0,
+				"Comma": 0.004830918,
+				"time": 0.024154589,
+				"reward": 0.009661836
+			}
+		},
+		"receptiviti_scores": {
+			"percentiles": {
+				"netspeak_focus": 93.11324621214712,
+				"body_focus": 26.88932439562619,
+				"conscientious": 89.42656502661877,
+				"family_oriented": 18.595817332639232,
+				"neuroticism": 1,
+				"social_skills": 30.896945623040992,
+				"openness": 26.71813632794678,
+				"cold": 47.18739052064335,
+				"sexual_focus": 38.59850307933812,
+				"religion_oriented": 35.14827527205458,
+				"happiness": 51.695495123820784,
+				"food_focus": 99,
+				"adjustment": 99,
+				"achievement_driven": 60.165015103146786,
+				"friend_focus": 30.301344646823317,
+				"extraversion": 90.78097443004596,
+				"depression": 6.3744127142193605,
+				"agreeable": 53.226428025112234,
+				"independent": 61.11329410293001,
+				"type_a": 96.98978116374278,
+				"workhorse": 69.93734902076991,
+				"reward_bias": 36.51834207459207,
+				"insecure": 8.605919719005174,
+				"leisure_oriented": 90.21789897717365,
+				"impulsive": 25.40430800992629,
+				"thinking_style": 95.67209581839555,
+				"persuasive": 94.64414366353608,
+				"power_driven": 72.19667055957942,
+				"money_oriented": 72.58157266771092,
+				"health_oriented": 60.722684959853915,
+				"work_oriented": 84.07462308539698
+			},
+			"raw_scores": {
+				"netspeak_focus": 2.4154589,
+				"body_focus": 0,
+				"conscientious": 2.3838701478441235,
+				"family_oriented": 1.9061598743641632,
+				"neuroticism": -0.9316483236595499,
+				"social_skills": 0.9596780026595213,
+				"openness": 1.2021877671432513,
+				"cold": -1.148887128723636,
+				"sexual_focus": 0,
+				"religion_oriented": 0,
+				"happiness": 5.383250521194872,
+				"food_focus": 2.1739129999999998,
+				"adjustment": 1.6662773730371612,
+				"achievement_driven": 4.657542818264134,
+				"friend_focus": 0,
+				"extraversion": 4.475920380879042,
+				"depression": -1.3715728226623187,
+				"agreeable": 0.0452582215096029,
+				"independent": -4.414607477655571,
+				"type_a": 10.829524593225575,
+				"workhorse": -1.4876493431770696,
+				"reward_bias": 0.9661836,
+				"insecure": -1.4958986565350698,
+				"leisure_oriented": 1.9323671,
+				"impulsive": 0.6758908088812738,
+				"thinking_style": 0.7821265792726622,
+				"persuasive": 2.608645305227462,
+				"power_driven": 6.4361632363375145,
+				"money_oriented": 0.9661836,
+				"health_oriented": 0.4830918,
+				"work_oriented": 2.5
+			},
+			"warnings": {}
+		},
+		"personality_snapshot": [
+			{
+				"description": "Likely has good social skills and typically gets along well with others. Likely a relatively grounded person who values friendships, works hard, and has healthy life goals.",
+				"summary": "Well-adjusted"
+			},
+			{
+				"description": "Able to face stressful situations without becoming upset or rattled. Remains calm most of the time, rarely gets irate, and is not easily embarrassed.",
+				"summary": "Calm and collected"
+			},
+			{
+				"description": "Likely a workaholic with a very intense drive to succeed. May often talk over and interrupt other people, can be lacking in patience, frequently stressed, and may have a short temper.",
+				"summary": "Type A"
+			}
+		],
+		"communication_recommendation": "Don't be afraid to use humor to lighten the conversation. They may get impatient if you're moving too slowly. Get to the point quickly and don't waste their time."
+	}
+}
+{
+	"_id": {
+		"$oid": "XXXXXXXXXXXXXXXXXXXXXXXX"
+	},
+	"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+	"created_time": 1.480626006052e+12,
+	"assessment": {
+		"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"cookie": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"quiz_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"submissions": [
+			{
+				"text": "I go out of my way to help others when I can.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Many of my friends work at helping others.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like people who are 'all business.'",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "The principal goal of life is enjoyment.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "If it feels good, do it.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "My idea of a great job is a restaurant critic.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "My best friends know how to party.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "If I could afford it, I would spend my life vacationing.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I try not to let work interfere with my pleasure.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I hate being around people who don't know how to relax.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I believe everyone is entitled to a decent standard of living.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like people who ignore the problems of third world countries.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like serious, uptight people.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I dislike people who try to restrict other people's enjoyment.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I could spend my life helping others.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I would like to have a career in which I am able to help other people.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Many of my friends volunteer for organizations that help the disadvantaged.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like people who won't help the homeless.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't understand people who only think of themselves and their own interests.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Relieving the misery of others is more important than making money.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am known for having a good time.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I like to spend my spare time helping others.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Most of my friends would go out of their way to help someone who needed it.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like people who won't help others who are in need.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "The goal of life is to enjoy yourself while you can.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "People who are all work and no play are boring.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "My idea of living is good food, good drink, and fun times.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I think a lot about the problems of disadvantaged children.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			}
+		],
+		"results": {
+			"scales": [
+				{
+					"scale": {
+						"name": "Altruistic",
+						"code": "ALT",
+						"multiplier": 1
+					},
+					"raw_score": 4
+				},
+				{
+					"scale": {
+						"name": "Hedonistic",
+						"code": "HED",
+						"multiplier": -1
+					},
+					"raw_score": 7
+				}
+			],
+			"quiz": {
+				"raw_score": -3,
+				"evaluation": {
+					"percentile": 70,
+					"persona": {
+						"name": "Sinner",
+						"image": [
+							{
+								"likes": [
+									"Arrested Development"
+								],
+								"url": "https://imgur.com/YCqHnaI.png",
+								"name": "G.O.B. Bluth"
+							},
+							{
+								"likes": [
+									"Harry Potter",
+									"Harry Potter and the Sacred Text",
+									"Harry Potter Fans",
+									"Harry Potter Fans club",
+									"Harry Potter and the Cursed Child",
+									"Harry Potter Community",
+									"Harry Potter Fanatics",
+									"Harry Potter Fans"
+								],
+								"url": "https://imgur.com/YCodwZb.png",
+								"name": "Lord Voldemort"
+							},
+							{
+								"likes": [
+									"Game of Thrones",
+									"Game of Thrones Fans",
+									"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+								],
+								"url": "https://imgur.com/ZBUYVGn.png",
+								"name": "Joffrey Baratheon"
+							},
+							{
+								"likes": [
+									"Taylor Swift",
+									"Miley Cyrus",
+									"Apple Music",
+									"Beats",
+									"Amazon Music"
+								],
+								"url": "https://imgur.com/P4Nw7gh.png",
+								"name": "Miley Cyrus"
+							},
+							{
+								"likes": [],
+								"url": "https://imgur.com/11IMpqg.png",
+								"name": "Sinner"
+							}
+						],
+						"feedback": "To you, life's for living it up, and you’re always the life of the party—the belle of the ball. You never pass up an opportunity for a good time, even if it means stretching yourself a little thin. You can’t stop. You won’t stop."
+					}
+				}
+			}
+		},
+		"created_time": 1.480626004221e+12,
+		"is_personalized": false,
+		"quiz": {
+			"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+			"name": "Sinner or Saint",
+			"published": true,
+			"scales": [
+				{
+					"name": "Altruistic",
+					"code": "ALT",
+					"multiplier": 1
+				},
+				{
+					"name": "Hedonistic",
+					"code": "HED",
+					"multiplier": -1
+				}
+			],
+			"background_image": {
+				"url": "https://imgur.com/aVdDelj.png"
+			},
+			"personas": [
+				{
+					"name": "Sinner",
+					"image": [
+						{
+							"likes": [
+								"Arrested Development"
+							],
+							"url": "https://imgur.com/YCqHnaI.png",
+							"name": "G.O.B. Bluth"
+						},
+						{
+							"likes": [
+								"Harry Potter",
+								"Harry Potter and the Sacred Text",
+								"Harry Potter Fans",
+								"Harry Potter Fans club",
+								"Harry Potter and the Cursed Child",
+								"Harry Potter Community",
+								"Harry Potter Fanatics",
+								"Harry Potter Fans"
+							],
+							"url": "https://imgur.com/YCodwZb.png",
+							"name": "Lord Voldemort"
+						},
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/ZBUYVGn.png",
+							"name": "Joffrey Baratheon"
+						},
+						{
+							"likes": [
+								"Taylor Swift",
+								"Miley Cyrus",
+								"Apple Music",
+								"Beats",
+								"Amazon Music"
+							],
+							"url": "https://imgur.com/P4Nw7gh.png",
+							"name": "Miley Cyrus"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/11IMpqg.png",
+							"name": "Sinner"
+						}
+					],
+					"feedback": "To you, life's for living it up, and you’re always the life of the party—the belle of the ball. You never pass up an opportunity for a good time, even if it means stretching yourself a little thin. You can’t stop. You won’t stop."
+				},
+				{
+					"name": "Saint",
+					"image": [
+						{
+							"likes": [
+								"Arrested Development"
+							],
+							"url": "https://imgur.com/RO59zxy.png",
+							"name": "Michael Bluth"
+						},
+						{
+							"likes": [
+								"Harry Potter",
+								"Harry Potter and the Sacred Text",
+								"Harry Potter Fans",
+								"Harry Potter Fans club",
+								"Harry Potter and the Cursed Child",
+								"Harry Potter Community",
+								"Harry Potter Fanatics",
+								"Harry Potter Fans"
+							],
+							"url": "https://imgur.com/HVxIG34.png",
+							"name": "Harry Potter"
+						},
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/aMNVlxL.png",
+							"name": "Ned Stark"
+						},
+						{
+							"likes": [
+								"Taylor Swift",
+								"Miley Cyrus",
+								"Apple Music",
+								"Beats",
+								"Amazon Music"
+							],
+							"url": "https://imgur.com/t1CoiRe.png",
+							"name": "Taylor Swift"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/M6i8itN.png",
+							"name": "Saint"
+						}
+					],
+					"feedback": "The Good Samaritan of the group, your friends think of you as warm and caring. You live to help others. You’re a sucker for a hard-luck story, and you have a seriously hard time passing by stray animals on the street. You’re most at home rolling up your sleeves for others’ benefit, even if it means missing the party."
+				}
+			],
+			"items": [
+				{
+					"text": "I go out of my way to help others when I can.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "Many of my friends work at helping others.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who are 'all business.'",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "The principal goal of life is enjoyment.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "If it feels good, do it.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "My idea of a great job is a restaurant critic.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "My best friends know how to party.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "If I could afford it, I would spend my life vacationing.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I try not to let work interfere with my pleasure.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I hate being around people who don't know how to relax.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I believe everyone is entitled to a decent standard of living.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who ignore the problems of third world countries.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like serious, uptight people.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I dislike people who try to restrict other people's enjoyment.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I could spend my life helping others.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I would like to have a career in which I am able to help other people.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "Many of my friends volunteer for organizations that help the disadvantaged.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who won't help the homeless.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't understand people who only think of themselves and their own interests.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "Relieving the misery of others is more important than making money.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I am known for having a good time.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I like to spend my spare time helping others.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "Most of my friends would go out of their way to help someone who needed it.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who won't help others who are in need.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "The goal of life is to enjoy yourself while you can.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "People who are all work and no play are boring.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "My idea of living is good food, good drink, and fun times.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I think a lot about the problems of disadvantaged children.",
+					"scale_code": "ALT",
+					"reversed": false
+				}
+			],
+			"scorer": {
+				"0": {
+					"percentile": 52,
+					"persona_name": "Saint"
+				},
+				"1": {
+					"percentile": 55,
+					"persona_name": "Saint"
+				},
+				"2": {
+					"percentile": 61,
+					"persona_name": "Saint"
+				},
+				"3": {
+					"percentile": 67,
+					"persona_name": "Saint"
+				},
+				"4": {
+					"percentile": 73,
+					"persona_name": "Saint"
+				},
+				"5": {
+					"percentile": 78,
+					"persona_name": "Saint"
+				},
+				"6": {
+					"percentile": 82,
+					"persona_name": "Saint"
+				},
+				"7": {
+					"percentile": 86,
+					"persona_name": "Saint"
+				},
+				"8": {
+					"percentile": 90,
+					"persona_name": "Saint"
+				},
+				"9": {
+					"percentile": 92,
+					"persona_name": "Saint"
+				},
+				"10": {
+					"percentile": 94,
+					"persona_name": "Saint"
+				},
+				"11": {
+					"percentile": 96,
+					"persona_name": "Saint"
+				},
+				"12": {
+					"percentile": 97,
+					"persona_name": "Saint"
+				},
+				"13": {
+					"percentile": 98,
+					"persona_name": "Saint"
+				},
+				"14": {
+					"percentile": 99,
+					"persona_name": "Saint"
+				},
+				"-1": {
+					"percentile": 58,
+					"persona_name": "Sinner"
+				},
+				"-2": {
+					"percentile": 64,
+					"persona_name": "Sinner"
+				},
+				"-3": {
+					"percentile": 70,
+					"persona_name": "Sinner"
+				},
+				"-4": {
+					"percentile": 76,
+					"persona_name": "Sinner"
+				},
+				"-5": {
+					"percentile": 81,
+					"persona_name": "Sinner"
+				},
+				"-6": {
+					"percentile": 85,
+					"persona_name": "Sinner"
+				},
+				"-7": {
+					"percentile": 88,
+					"persona_name": "Sinner"
+				},
+				"-8": {
+					"percentile": 91,
+					"persona_name": "Sinner"
+				},
+				"-9": {
+					"percentile": 93,
+					"persona_name": "Sinner"
+				},
+				"-10": {
+					"percentile": 95,
+					"persona_name": "Sinner"
+				},
+				"-11": {
+					"percentile": 97,
+					"persona_name": "Sinner"
+				},
+				"-12": {
+					"percentile": 98,
+					"persona_name": "Sinner"
+				},
+				"-13": {
+					"percentile": 98,
+					"persona_name": "Sinner"
+				},
+				"-14": {
+					"percentile": 99,
+					"persona_name": "Sinner"
+				}
+			}
+		}
+	},
+	"num_friends": 308,
+	"page_likes": [
+		{
+			"id": "640670299346390",
+			"name": "School of Data"
+		},
+		{
+			"id": "593609110723919",
+			"name": "Data Center College of the Philippines-Baguio"
+		},
+		{
+			"id": "1109804155711084",
+			"name": "Data24.com.ar"
+		},
+		{
+			"id": "747600545347617",
+			"name": "Open  Data  Nation"
+		},
+		{
+			"id": "452567721430408",
+			"name": "DataNitro"
+		},
+		{
+			"id": "110852525667327",
+			"name": "DataXu"
+		},
+		{
+			"id": "663957870316253",
+			"name": "Data-Smoke"
+		},
+		{
+			"id": "1556374471294462",
+			"name": "Open Data Science Conference"
+		},
+		{
+			"id": "131722586905303",
+			"name": "Data driven journalism"
+		},
+		{
+			"id": "164243576951466",
+			"name": "DataGenetics"
+		},
+		{
+			"id": "112195622130706",
+			"name": "Data mining"
+		},
+		{
+			"id": "966219366748744",
+			"name": "Data Science Academy"
+		},
+		{
+			"id": "666228420104988",
+			"name": "DataBot"
+		},
+		{
+			"id": "32352317445",
+			"name": "DatA"
+		},
+		{
+			"id": "726282547396228",
+			"name": "DataCamp"
+		},
+		{
+			"id": "272867689463294",
+			"name": "DataKind"
+		},
+		{
+			"id": "123742390997899",
+			"name": "DataCore Software"
+		},
+		{
+			"id": "180668292141237",
+			"name": "Data \u0026 Society Research Institute"
+		},
+		{
+			"id": "126721414070620",
+			"name": "DataStax"
+		},
+		{
+			"id": "550398798313402",
+			"name": "Data.Chaco"
+		},
+		{
+			"id": "106056532758160",
+			"name": "Data (Star Trek)"
+		},
+		{
+			"id": "104109636293141",
+			"name": "Data analysis"
+		},
+		{
+			"id": "431299473579193",
+			"name": "Data science"
+		},
+		{
+			"id": "1439562533022638",
+			"name": "Data Discs"
+		},
+		{
+			"id": "113735218637163",
+			"name": "Data warehouse"
+		},
+		{
+			"id": "348916581961058",
+			"name": "Data Movil"
+		},
+		{
+			"id": "343774964377",
+			"name": "Data Garden"
+		},
+		{
+			"id": "667903843342107",
+			"name": "DataGueule"
+		},
+		{
+			"id": "104067049628442",
+			"name": "Data visualization"
+		},
+		{
+			"id": "436671573016220",
+			"name": "Insight Data Science"
+		},
+		{
+			"id": "116292905180055",
+			"name": "DataBlitz"
+		},
+		{
+			"id": "1710083055891989",
+			"name": "Data Unisex instagram data.unisex"
+		},
+		{
+			"id": "161874740499059",
+			"name": "Data Connectors"
+		},
+		{
+			"id": "891296094324095",
+			"name": "DataMapper"
+		},
+		{
+			"id": "384506808321474",
+			"name": "Data Science at Berkeley"
+		},
+		{
+			"id": "8394258414",
+			"name": "Facebook Data Science"
+		},
+		{
+			"id": "787163124721659",
+			"name": "Facebook Marketplace Community"
+		},
+		{
+			"id": "9465008123",
+			"name": "Amazon.com"
+		},
+		{
+			"id": "384160918274249",
+			"name": "GooG Gallery"
+		},
+		{
+			"id": "142405469104684",
+			"name": "AT\u0026T U-verse"
+		},
+		{
+			"id": "8576093908",
+			"name": "AT\u0026T"
+		},
+		{
+			"id": "925007000949719",
+			"name": "ExxonMobil"
+		},
+		{
+			"id": "1677727332468068",
+			"name": "React-Native"
+		},
+		{
+			"id": "876571465697767",
+			"name": "WebRTC Gateway"
+		},
+		{
+			"id": "125432187541505",
+			"name": "WebRTC"
+		},
+		{
+			"id": "1665668970322848",
+			"name": "MongodbSupport"
+		},
+		{
+			"id": "397955415556",
+			"name": "MongoDB"
+		},
+		{
+			"id": "1060755477296423",
+			"name": "GraphQL Hub"
+		},
+		{
+			"id": "1860893750863029",
+			"name": "GraphQL"
+		},
+		{
+			"id": "1538734613085283",
+			"name": "GraphQL"
+		},
+		{
+			"id": "474430329375431",
+			"name": "React"
+		},
+		{
+			"id": "19292868552",
+			"name": "Facebook for Developers"
+		},
+		{
+			"id": "554533078052731",
+			"name": "Duo (app)"
+		},
+		{
+			"id": "226357794130335",
+			"name": "Google Play Store"
+		},
+		{
+			"id": "105630346137905",
+			"name": "Google Street View"
+		},
+		{
+			"id": "206162352791386",
+			"name": "Google Drive"
+		},
+		{
+			"id": "709585315763666",
+			"name": "Google Cardboard"
+		},
+		{
+			"id": "102258288460",
+			"name": "Google Analytics"
+		},
+		{
+			"id": "734382209918562",
+			"name": "Google Classroom"
+		},
+		{
+			"id": "105640792804209",
+			"name": "Google Translate"
+		},
+		{
+			"id": "15279704057",
+			"name": "Google Maps"
+		},
+		{
+			"id": "104958162837",
+			"name": "Google"
+		},
+		{
+			"id": "321662419491",
+			"name": "Google Chrome"
+		},
+		{
+			"id": "203906229622591",
+			"name": "TED-Ed"
+		},
+		{
+			"id": "37763684202",
+			"name": "The Daily Beast"
+		},
+		{
+			"id": "5550296508",
+			"name": "CNN"
+		},
+		{
+			"id": "41911143546",
+			"name": "The Linux Foundation"
+		},
+		{
+			"id": "188064381236919",
+			"name": "NodeJS"
+		},
+		{
+			"id": "132640106759624",
+			"name": "Node.js"
+		},
+		{
+			"id": "399410916935242",
+			"name": "Reactive Conference"
+		},
+		{
+			"id": "8062627951",
+			"name": "TechCrunch"
+		},
+		{
+			"id": "176587952408664",
+			"name": "Ballin' on a Budget"
+		},
+		{
+			"id": "497424700459466",
+			"name": "Startsomething LLC"
+		},
+		{
+			"id": "251927771522338",
+			"name": "COCO - West Loop"
+		},
+		{
+			"id": "302600436514474",
+			"name": "Dendrityx"
+		},
+		{
+			"id": "432909653411459",
+			"name": "PDS Alums"
+		},
+		{
+			"id": "491199330894674",
+			"name": "Toast Inc"
+		}
+	],
+	"post_analysis": {
+		"liwc_scores": {
+			"tone": 87.72641,
+			"sixLtr": 0.2536232,
+			"clout": 84.48792,
+			"wps": 15.333333,
+			"analytic": 79.55318,
+			"wc": 414,
+			"dic": 0.7705314,
+			"authentic": 26.043097,
+			"categories": {
+				"family": 0,
+				"feel": 0.002415459,
+				"money": 0.009661836,
+				"insight": 0.009661836,
+				"number": 0.04347826,
+				"Parenth": 0,
+				"cogproc": 0.057971016,
+				"OtherP": 0.012077294,
+				"female": 0,
+				"negate": 0.007246377,
+				"negemo": 0.009661836,
+				"differ": 0.009661836,
+				"death": 0,
+				"adverb": 0.04347826,
+				"informal": 0.026570048,
+				"ipron": 0.057971016,
+				"percept": 0.004830918,
+				"quant": 0.016908212,
+				"Exclam": 0.028985508,
+				"adj": 0.028985508,
+				"prep": 0.13043478,
+				"friend": 0,
+				"function": 0.42028984,
+				"bio": 0.026570048,
+				"risk": 0,
+				"leisure": 0.019323671,
+				"Quote": 0,
+				"verb": 0.16425121,
+				"hear": 0,
+				"they": 0.004830918,
+				"affect": 0.055555556,
+				"you": 0.012077294,
+				"work": 0.11594203,
+				"Period": 0.07004831,
+				"achieve": 0.009661836,
+				"focusfuture": 0.012077294,
+				"auxverb": 0.055555556,
+				"male": 0,
+				"shehe": 0,
+				"SemiC": 0,
+				"relig": 0,
+				"compare": 0.004830918,
+				"pronoun": 0.13285024,
+				"QMark": 0.007246377,
+				"certain": 0.007246377,
+				"assent": 0,
+				"we": 0.026570048,
+				"sad": 0,
+				"affiliation": 0.07971015,
+				"see": 0.002415459,
+				"anger": 0.007246377,
+				"home": 0,
+				"conj": 0.02173913,
+				"sexual": 0,
+				"ppron": 0.07487923,
+				"Dash": 0.026570048,
+				"space": 0.07971015,
+				"filler": 0,
+				"anx": 0,
+				"focuspresent": 0.09178744,
+				"netspeak": 0.024154589,
+				"health": 0.004830918,
+				"discrep": 0,
+				"relativ": 0.12077295,
+				"Colon": 0.002415459,
+				"nonflu": 0.002415459,
+				"cause": 0.019323671,
+				"body": 0,
+				"tentat": 0.016908212,
+				"power": 0.014492754,
+				"interrog": 0.016908212,
+				"social": 0.11111111,
+				"drives": 0.11111111,
+				"focuspast": 0.007246377,
+				"article": 0.041062802,
+				"AllPunc": 0.16183574,
+				"Apostro": 0.009661836,
+				"i": 0.031400967,
+				"posemo": 0.04589372,
+				"ingest": 0.02173913,
+				"motion": 0.02173913,
+				"swear": 0,
+				"Comma": 0.004830918,
+				"time": 0.024154589,
+				"reward": 0.009661836
+			}
+		},
+		"receptiviti_scores": {
+			"percentiles": {
+				"netspeak_focus": 93.11324621214712,
+				"body_focus": 26.88932439562619,
+				"conscientious": 89.42656502661877,
+				"family_oriented": 18.595817332639232,
+				"neuroticism": 1,
+				"social_skills": 30.896945623040992,
+				"openness": 26.71813632794678,
+				"cold": 47.18739052064335,
+				"sexual_focus": 38.59850307933812,
+				"religion_oriented": 35.14827527205458,
+				"happiness": 51.695495123820784,
+				"food_focus": 99,
+				"adjustment": 99,
+				"achievement_driven": 60.165015103146786,
+				"friend_focus": 30.301344646823317,
+				"extraversion": 90.78097443004596,
+				"depression": 6.3744127142193605,
+				"agreeable": 53.226428025112234,
+				"independent": 61.11329410293001,
+				"type_a": 96.98978116374278,
+				"workhorse": 69.93734902076991,
+				"reward_bias": 36.51834207459207,
+				"insecure": 8.605919719005174,
+				"leisure_oriented": 90.21789897717365,
+				"impulsive": 25.40430800992629,
+				"thinking_style": 95.67209581839555,
+				"persuasive": 94.64414366353608,
+				"power_driven": 72.19667055957942,
+				"money_oriented": 72.58157266771092,
+				"health_oriented": 60.722684959853915,
+				"work_oriented": 84.07462308539698
+			},
+			"raw_scores": {
+				"netspeak_focus": 2.4154589,
+				"body_focus": 0,
+				"conscientious": 2.3838701478441235,
+				"family_oriented": 1.9061598743641632,
+				"neuroticism": -0.9316483236595499,
+				"social_skills": 0.9596780026595213,
+				"openness": 1.2021877671432513,
+				"cold": -1.148887128723636,
+				"sexual_focus": 0,
+				"religion_oriented": 0,
+				"happiness": 5.383250521194872,
+				"food_focus": 2.1739129999999998,
+				"adjustment": 1.6662773730371612,
+				"achievement_driven": 4.657542818264134,
+				"friend_focus": 0,
+				"extraversion": 4.475920380879042,
+				"depression": -1.3715728226623187,
+				"agreeable": 0.0452582215096029,
+				"independent": -4.414607477655571,
+				"type_a": 10.829524593225575,
+				"workhorse": -1.4876493431770696,
+				"reward_bias": 0.9661836,
+				"insecure": -1.4958986565350698,
+				"leisure_oriented": 1.9323671,
+				"impulsive": 0.6758908088812738,
+				"thinking_style": 0.7821265792726622,
+				"persuasive": 2.608645305227462,
+				"power_driven": 6.4361632363375145,
+				"money_oriented": 0.9661836,
+				"health_oriented": 0.4830918,
+				"work_oriented": 2.5
+			},
+			"warnings": {}
+		},
+		"personality_snapshot": [
+			{
+				"description": "Likely has good social skills and typically gets along well with others. Likely a relatively grounded person who values friendships, works hard, and has healthy life goals.",
+				"summary": "Well-adjusted"
+			},
+			{
+				"description": "Able to face stressful situations without becoming upset or rattled. Remains calm most of the time, rarely gets irate, and is not easily embarrassed.",
+				"summary": "Calm and collected"
+			},
+			{
+				"description": "Likely a workaholic with a very intense drive to succeed. May often talk over and interrupt other people, can be lacking in patience, frequently stressed, and may have a short temper.",
+				"summary": "Type A"
+			}
+		],
+		"communication_recommendation": "Don't be afraid to use humor to lighten the conversation. They may get impatient if you're moving too slowly. Get to the point quickly and don't waste their time."
+	}
+}
+{
+	"_id": {
+		"$oid": "XXXXXXXXXXXXXXXXXXXXXXXX"
+	},
+	"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+	"created_time": 1.480944018145e+12,
+	"assessment": {
+		"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"cookie": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"quiz_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"submissions": [
+			{
+				"text": "I go out of my way to help others when I can.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "Many of my friends work at helping others.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like people who are 'all business.'",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "The principal goal of life is enjoyment.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "If it feels good, do it.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "My idea of a great job is a restaurant critic.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "My best friends know how to party.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "If I could afford it, I would spend my life vacationing.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I try not to let work interfere with my pleasure.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I hate being around people who don't know how to relax.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I believe everyone is entitled to a decent standard of living.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like people who ignore the problems of third world countries.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like serious, uptight people.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I dislike people who try to restrict other people's enjoyment.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I could spend my life helping others.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I would like to have a career in which I am able to help other people.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "Many of my friends volunteer for organizations that help the disadvantaged.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like people who won't help the homeless.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't understand people who only think of themselves and their own interests.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Relieving the misery of others is more important than making money.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I am known for having a good time.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I like to spend my spare time helping others.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "Most of my friends would go out of their way to help someone who needed it.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I don't like people who won't help others who are in need.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "The goal of life is to enjoy yourself while you can.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "People who are all work and no play are boring.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "My idea of living is good food, good drink, and fun times.",
+				"scale_code": "HED",
+				"reversed": false,
+				"response": false
+			},
+			{
+				"text": "I think a lot about the problems of disadvantaged children.",
+				"scale_code": "ALT",
+				"reversed": false,
+				"response": false
+			}
+		],
+		"results": {
+			"scales": [
+				{
+					"scale": {
+						"name": "Altruistic",
+						"code": "ALT",
+						"multiplier": 1
+					},
+					"raw_score": 7
+				},
+				{
+					"scale": {
+						"name": "Hedonistic",
+						"code": "HED",
+						"multiplier": -1
+					},
+					"raw_score": 10
+				}
+			],
+			"quiz": {
+				"raw_score": -3,
+				"evaluation": {
+					"percentile": 70,
+					"persona": {
+						"name": "Sinner",
+						"image": [
+							{
+								"likes": [
+									"Arrested Development"
+								],
+								"url": "https://imgur.com/YCqHnaI.png",
+								"name": "G.O.B. Bluth"
+							},
+							{
+								"likes": [
+									"Harry Potter",
+									"Harry Potter and the Sacred Text",
+									"Harry Potter Fans",
+									"Harry Potter Fans club",
+									"Harry Potter and the Cursed Child",
+									"Harry Potter Community",
+									"Harry Potter Fanatics",
+									"Harry Potter Fans"
+								],
+								"url": "https://imgur.com/YCodwZb.png",
+								"name": "Lord Voldemort"
+							},
+							{
+								"likes": [
+									"Game of Thrones",
+									"Game of Thrones Fans",
+									"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+								],
+								"url": "https://imgur.com/ZBUYVGn.png",
+								"name": "Joffrey Baratheon"
+							},
+							{
+								"likes": [
+									"Taylor Swift",
+									"Miley Cyrus",
+									"Apple Music",
+									"Beats",
+									"Amazon Music"
+								],
+								"url": "https://imgur.com/P4Nw7gh.png",
+								"name": "Miley Cyrus"
+							},
+							{
+								"likes": [],
+								"url": "https://imgur.com/11IMpqg.png",
+								"name": "Sinner"
+							}
+						],
+						"feedback": "To you, life's for living it up, and you’re always the life of the party—the belle of the ball. You never pass up an opportunity for a good time, even if it means stretching yourself a little thin. You can’t stop. You won’t stop."
+					}
+				}
+			}
+		},
+		"created_time": 1.480944014056e+12,
+		"is_personalized": false,
+		"quiz": {
+			"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+			"name": "Sinner or Saint",
+			"published": true,
+			"scales": [
+				{
+					"name": "Altruistic",
+					"code": "ALT",
+					"multiplier": 1
+				},
+				{
+					"name": "Hedonistic",
+					"code": "HED",
+					"multiplier": -1
+				}
+			],
+			"background_image": {
+				"url": "https://imgur.com/aVdDelj.png"
+			},
+			"personas": [
+				{
+					"name": "Sinner",
+					"image": [
+						{
+							"likes": [
+								"Arrested Development"
+							],
+							"url": "https://imgur.com/YCqHnaI.png",
+							"name": "G.O.B. Bluth"
+						},
+						{
+							"likes": [
+								"Harry Potter",
+								"Harry Potter and the Sacred Text",
+								"Harry Potter Fans",
+								"Harry Potter Fans club",
+								"Harry Potter and the Cursed Child",
+								"Harry Potter Community",
+								"Harry Potter Fanatics",
+								"Harry Potter Fans"
+							],
+							"url": "https://imgur.com/YCodwZb.png",
+							"name": "Lord Voldemort"
+						},
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/ZBUYVGn.png",
+							"name": "Joffrey Baratheon"
+						},
+						{
+							"likes": [
+								"Taylor Swift",
+								"Miley Cyrus",
+								"Apple Music",
+								"Beats",
+								"Amazon Music"
+							],
+							"url": "https://imgur.com/P4Nw7gh.png",
+							"name": "Miley Cyrus"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/11IMpqg.png",
+							"name": "Sinner"
+						}
+					],
+					"feedback": "To you, life's for living it up, and you’re always the life of the party—the belle of the ball. You never pass up an opportunity for a good time, even if it means stretching yourself a little thin. You can’t stop. You won’t stop."
+				},
+				{
+					"name": "Saint",
+					"image": [
+						{
+							"likes": [
+								"Arrested Development"
+							],
+							"url": "https://imgur.com/RO59zxy.png",
+							"name": "Michael Bluth"
+						},
+						{
+							"likes": [
+								"Harry Potter",
+								"Harry Potter and the Sacred Text",
+								"Harry Potter Fans",
+								"Harry Potter Fans club",
+								"Harry Potter and the Cursed Child",
+								"Harry Potter Community",
+								"Harry Potter Fanatics",
+								"Harry Potter Fans"
+							],
+							"url": "https://imgur.com/HVxIG34.png",
+							"name": "Harry Potter"
+						},
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/aMNVlxL.png",
+							"name": "Ned Stark"
+						},
+						{
+							"likes": [
+								"Taylor Swift",
+								"Miley Cyrus",
+								"Apple Music",
+								"Beats",
+								"Amazon Music"
+							],
+							"url": "https://imgur.com/t1CoiRe.png",
+							"name": "Taylor Swift"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/M6i8itN.png",
+							"name": "Saint"
+						}
+					],
+					"feedback": "The Good Samaritan of the group, your friends think of you as warm and caring. You live to help others. You’re a sucker for a hard-luck story, and you have a seriously hard time passing by stray animals on the street. You’re most at home rolling up your sleeves for others’ benefit, even if it means missing the party."
+				}
+			],
+			"items": [
+				{
+					"text": "I go out of my way to help others when I can.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "Many of my friends work at helping others.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who are 'all business.'",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "The principal goal of life is enjoyment.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "If it feels good, do it.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "My idea of a great job is a restaurant critic.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "My best friends know how to party.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "If I could afford it, I would spend my life vacationing.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I try not to let work interfere with my pleasure.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I hate being around people who don't know how to relax.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I believe everyone is entitled to a decent standard of living.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who ignore the problems of third world countries.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like serious, uptight people.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I dislike people who try to restrict other people's enjoyment.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I could spend my life helping others.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I would like to have a career in which I am able to help other people.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "Many of my friends volunteer for organizations that help the disadvantaged.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who won't help the homeless.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't understand people who only think of themselves and their own interests.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "Relieving the misery of others is more important than making money.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I am known for having a good time.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I like to spend my spare time helping others.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "Most of my friends would go out of their way to help someone who needed it.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "I don't like people who won't help others who are in need.",
+					"scale_code": "ALT",
+					"reversed": false
+				},
+				{
+					"text": "The goal of life is to enjoy yourself while you can.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "People who are all work and no play are boring.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "My idea of living is good food, good drink, and fun times.",
+					"scale_code": "HED",
+					"reversed": false
+				},
+				{
+					"text": "I think a lot about the problems of disadvantaged children.",
+					"scale_code": "ALT",
+					"reversed": false
+				}
+			],
+			"scorer": {
+				"0": {
+					"percentile": 52,
+					"persona_name": "Saint"
+				},
+				"1": {
+					"percentile": 55,
+					"persona_name": "Saint"
+				},
+				"2": {
+					"percentile": 61,
+					"persona_name": "Saint"
+				},
+				"3": {
+					"percentile": 67,
+					"persona_name": "Saint"
+				},
+				"4": {
+					"percentile": 73,
+					"persona_name": "Saint"
+				},
+				"5": {
+					"percentile": 78,
+					"persona_name": "Saint"
+				},
+				"6": {
+					"percentile": 82,
+					"persona_name": "Saint"
+				},
+				"7": {
+					"percentile": 86,
+					"persona_name": "Saint"
+				},
+				"8": {
+					"percentile": 90,
+					"persona_name": "Saint"
+				},
+				"9": {
+					"percentile": 92,
+					"persona_name": "Saint"
+				},
+				"10": {
+					"percentile": 94,
+					"persona_name": "Saint"
+				},
+				"11": {
+					"percentile": 96,
+					"persona_name": "Saint"
+				},
+				"12": {
+					"percentile": 97,
+					"persona_name": "Saint"
+				},
+				"13": {
+					"percentile": 98,
+					"persona_name": "Saint"
+				},
+				"14": {
+					"percentile": 99,
+					"persona_name": "Saint"
+				},
+				"-1": {
+					"percentile": 58,
+					"persona_name": "Sinner"
+				},
+				"-2": {
+					"percentile": 64,
+					"persona_name": "Sinner"
+				},
+				"-3": {
+					"percentile": 70,
+					"persona_name": "Sinner"
+				},
+				"-4": {
+					"percentile": 76,
+					"persona_name": "Sinner"
+				},
+				"-5": {
+					"percentile": 81,
+					"persona_name": "Sinner"
+				},
+				"-6": {
+					"percentile": 85,
+					"persona_name": "Sinner"
+				},
+				"-7": {
+					"percentile": 88,
+					"persona_name": "Sinner"
+				},
+				"-8": {
+					"percentile": 91,
+					"persona_name": "Sinner"
+				},
+				"-9": {
+					"percentile": 93,
+					"persona_name": "Sinner"
+				},
+				"-10": {
+					"percentile": 95,
+					"persona_name": "Sinner"
+				},
+				"-11": {
+					"percentile": 97,
+					"persona_name": "Sinner"
+				},
+				"-12": {
+					"percentile": 98,
+					"persona_name": "Sinner"
+				},
+				"-13": {
+					"percentile": 98,
+					"persona_name": "Sinner"
+				},
+				"-14": {
+					"percentile": 99,
+					"persona_name": "Sinner"
+				}
+			}
+		}
+	},
+	"num_friends": 308,
+	"page_likes": [
+		{
+			"id": "640670299346390",
+			"name": "School of Data"
+		},
+		{
+			"id": "593609110723919",
+			"name": "Data Center College of the Philippines-Baguio"
+		},
+		{
+			"id": "1109804155711084",
+			"name": "Data24.com.ar"
+		},
+		{
+			"id": "747600545347617",
+			"name": "Open  Data  Nation"
+		},
+		{
+			"id": "452567721430408",
+			"name": "DataNitro"
+		},
+		{
+			"id": "110852525667327",
+			"name": "DataXu"
+		},
+		{
+			"id": "663957870316253",
+			"name": "Data-Smoke"
+		},
+		{
+			"id": "1556374471294462",
+			"name": "Open Data Science Conference"
+		},
+		{
+			"id": "131722586905303",
+			"name": "Data driven journalism"
+		},
+		{
+			"id": "164243576951466",
+			"name": "DataGenetics"
+		},
+		{
+			"id": "112195622130706",
+			"name": "Data mining"
+		},
+		{
+			"id": "966219366748744",
+			"name": "Data Science Academy"
+		},
+		{
+			"id": "666228420104988",
+			"name": "DataBot"
+		},
+		{
+			"id": "32352317445",
+			"name": "DatA"
+		},
+		{
+			"id": "726282547396228",
+			"name": "DataCamp"
+		},
+		{
+			"id": "272867689463294",
+			"name": "DataKind"
+		},
+		{
+			"id": "123742390997899",
+			"name": "DataCore Software"
+		},
+		{
+			"id": "180668292141237",
+			"name": "Data \u0026 Society Research Institute"
+		},
+		{
+			"id": "126721414070620",
+			"name": "DataStax"
+		},
+		{
+			"id": "550398798313402",
+			"name": "Data.Chaco"
+		},
+		{
+			"id": "106056532758160",
+			"name": "Data (Star Trek)"
+		},
+		{
+			"id": "104109636293141",
+			"name": "Data analysis"
+		},
+		{
+			"id": "431299473579193",
+			"name": "Data science"
+		},
+		{
+			"id": "1439562533022638",
+			"name": "Data Discs"
+		},
+		{
+			"id": "113735218637163",
+			"name": "Data warehouse"
+		},
+		{
+			"id": "348916581961058",
+			"name": "Data Movil"
+		},
+		{
+			"id": "343774964377",
+			"name": "Data Garden"
+		},
+		{
+			"id": "667903843342107",
+			"name": "DataGueule"
+		},
+		{
+			"id": "104067049628442",
+			"name": "Data visualization"
+		},
+		{
+			"id": "436671573016220",
+			"name": "Insight Data Science"
+		},
+		{
+			"id": "116292905180055",
+			"name": "DataBlitz"
+		},
+		{
+			"id": "1710083055891989",
+			"name": "Data Unisex instagram data.unisex"
+		},
+		{
+			"id": "161874740499059",
+			"name": "Data Connectors"
+		},
+		{
+			"id": "891296094324095",
+			"name": "DataMapper"
+		},
+		{
+			"id": "384506808321474",
+			"name": "Data Science at Berkeley"
+		},
+		{
+			"id": "8394258414",
+			"name": "Facebook Data Science"
+		},
+		{
+			"id": "787163124721659",
+			"name": "Facebook Marketplace Community"
+		},
+		{
+			"id": "9465008123",
+			"name": "Amazon.com"
+		},
+		{
+			"id": "384160918274249",
+			"name": "GooG Gallery"
+		},
+		{
+			"id": "142405469104684",
+			"name": "AT\u0026T U-verse"
+		},
+		{
+			"id": "8576093908",
+			"name": "AT\u0026T"
+		},
+		{
+			"id": "925007000949719",
+			"name": "ExxonMobil"
+		},
+		{
+			"id": "1677727332468068",
+			"name": "React-Native"
+		},
+		{
+			"id": "876571465697767",
+			"name": "WebRTC Gateway"
+		},
+		{
+			"id": "125432187541505",
+			"name": "WebRTC"
+		},
+		{
+			"id": "1665668970322848",
+			"name": "MongodbSupport"
+		},
+		{
+			"id": "397955415556",
+			"name": "MongoDB"
+		},
+		{
+			"id": "1060755477296423",
+			"name": "GraphQL Hub"
+		},
+		{
+			"id": "1860893750863029",
+			"name": "GraphQL"
+		},
+		{
+			"id": "1538734613085283",
+			"name": "GraphQL"
+		},
+		{
+			"id": "474430329375431",
+			"name": "React"
+		},
+		{
+			"id": "19292868552",
+			"name": "Facebook for Developers"
+		},
+		{
+			"id": "554533078052731",
+			"name": "Duo (app)"
+		},
+		{
+			"id": "226357794130335",
+			"name": "Google Play Store"
+		},
+		{
+			"id": "105630346137905",
+			"name": "Google Street View"
+		},
+		{
+			"id": "206162352791386",
+			"name": "Google Drive"
+		},
+		{
+			"id": "709585315763666",
+			"name": "Google Cardboard"
+		},
+		{
+			"id": "102258288460",
+			"name": "Google Analytics"
+		},
+		{
+			"id": "734382209918562",
+			"name": "Google Classroom"
+		},
+		{
+			"id": "105640792804209",
+			"name": "Google Translate"
+		},
+		{
+			"id": "15279704057",
+			"name": "Google Maps"
+		},
+		{
+			"id": "104958162837",
+			"name": "Google"
+		},
+		{
+			"id": "321662419491",
+			"name": "Google Chrome"
+		},
+		{
+			"id": "203906229622591",
+			"name": "TED-Ed"
+		},
+		{
+			"id": "37763684202",
+			"name": "The Daily Beast"
+		},
+		{
+			"id": "5550296508",
+			"name": "CNN"
+		},
+		{
+			"id": "41911143546",
+			"name": "The Linux Foundation"
+		},
+		{
+			"id": "188064381236919",
+			"name": "NodeJS"
+		},
+		{
+			"id": "132640106759624",
+			"name": "Node.js"
+		},
+		{
+			"id": "399410916935242",
+			"name": "Reactive Conference"
+		},
+		{
+			"id": "8062627951",
+			"name": "TechCrunch"
+		},
+		{
+			"id": "176587952408664",
+			"name": "Ballin' on a Budget"
+		},
+		{
+			"id": "497424700459466",
+			"name": "Startsomething LLC"
+		},
+		{
+			"id": "251927771522338",
+			"name": "COCO - West Loop"
+		},
+		{
+			"id": "302600436514474",
+			"name": "Dendrityx"
+		},
+		{
+			"id": "432909653411459",
+			"name": "PDS Alums"
+		},
+		{
+			"id": "491199330894674",
+			"name": "Toast Inc"
+		}
+	],
+	"post_analysis": {
+		"liwc_scores": {
+			"tone": 87.72641,
+			"sixLtr": 0.2536232,
+			"clout": 84.48792,
+			"wps": 15.333333,
+			"analytic": 79.55318,
+			"wc": 414,
+			"dic": 0.7705314,
+			"authentic": 26.043097,
+			"categories": {
+				"family": 0,
+				"feel": 0.002415459,
+				"money": 0.009661836,
+				"insight": 0.009661836,
+				"number": 0.04347826,
+				"Parenth": 0,
+				"cogproc": 0.057971016,
+				"OtherP": 0.012077294,
+				"female": 0,
+				"negate": 0.007246377,
+				"negemo": 0.009661836,
+				"differ": 0.009661836,
+				"death": 0,
+				"adverb": 0.04347826,
+				"informal": 0.026570048,
+				"ipron": 0.057971016,
+				"percept": 0.004830918,
+				"quant": 0.016908212,
+				"Exclam": 0.028985508,
+				"adj": 0.028985508,
+				"prep": 0.13043478,
+				"friend": 0,
+				"function": 0.42028984,
+				"bio": 0.026570048,
+				"risk": 0,
+				"leisure": 0.019323671,
+				"Quote": 0,
+				"verb": 0.16425121,
+				"hear": 0,
+				"they": 0.004830918,
+				"affect": 0.055555556,
+				"you": 0.012077294,
+				"work": 0.11594203,
+				"Period": 0.07004831,
+				"achieve": 0.009661836,
+				"focusfuture": 0.012077294,
+				"auxverb": 0.055555556,
+				"male": 0,
+				"shehe": 0,
+				"SemiC": 0,
+				"relig": 0,
+				"compare": 0.004830918,
+				"pronoun": 0.13285024,
+				"QMark": 0.007246377,
+				"certain": 0.007246377,
+				"assent": 0,
+				"we": 0.026570048,
+				"sad": 0,
+				"affiliation": 0.07971015,
+				"see": 0.002415459,
+				"anger": 0.007246377,
+				"home": 0,
+				"conj": 0.02173913,
+				"sexual": 0,
+				"ppron": 0.07487923,
+				"Dash": 0.026570048,
+				"space": 0.07971015,
+				"filler": 0,
+				"anx": 0,
+				"focuspresent": 0.09178744,
+				"netspeak": 0.024154589,
+				"health": 0.004830918,
+				"discrep": 0,
+				"relativ": 0.12077295,
+				"Colon": 0.002415459,
+				"nonflu": 0.002415459,
+				"cause": 0.019323671,
+				"body": 0,
+				"tentat": 0.016908212,
+				"power": 0.014492754,
+				"interrog": 0.016908212,
+				"social": 0.11111111,
+				"drives": 0.11111111,
+				"focuspast": 0.007246377,
+				"article": 0.041062802,
+				"AllPunc": 0.16183574,
+				"Apostro": 0.009661836,
+				"i": 0.031400967,
+				"posemo": 0.04589372,
+				"ingest": 0.02173913,
+				"motion": 0.02173913,
+				"swear": 0,
+				"Comma": 0.004830918,
+				"time": 0.024154589,
+				"reward": 0.009661836
+			}
+		},
+		"receptiviti_scores": {
+			"percentiles": {
+				"netspeak_focus": 93.11324621214712,
+				"body_focus": 26.88932439562619,
+				"conscientious": 89.42656502661877,
+				"family_oriented": 18.595817332639232,
+				"neuroticism": 1,
+				"social_skills": 30.896945623040992,
+				"openness": 26.71813632794678,
+				"cold": 47.18739052064335,
+				"sexual_focus": 38.59850307933812,
+				"religion_oriented": 35.14827527205458,
+				"happiness": 51.695495123820784,
+				"food_focus": 99,
+				"adjustment": 99,
+				"achievement_driven": 60.165015103146786,
+				"friend_focus": 30.301344646823317,
+				"extraversion": 90.78097443004596,
+				"depression": 6.3744127142193605,
+				"agreeable": 53.226428025112234,
+				"independent": 61.11329410293001,
+				"type_a": 96.98978116374278,
+				"workhorse": 69.93734902076991,
+				"reward_bias": 36.51834207459207,
+				"insecure": 8.605919719005174,
+				"leisure_oriented": 90.21789897717365,
+				"impulsive": 25.40430800992629,
+				"thinking_style": 95.67209581839555,
+				"persuasive": 94.64414366353608,
+				"power_driven": 72.19667055957942,
+				"money_oriented": 72.58157266771092,
+				"health_oriented": 60.722684959853915,
+				"work_oriented": 84.07462308539698
+			},
+			"raw_scores": {
+				"netspeak_focus": 2.4154589,
+				"body_focus": 0,
+				"conscientious": 2.3838701478441235,
+				"family_oriented": 1.9061598743641632,
+				"neuroticism": -0.9316483236595499,
+				"social_skills": 0.9596780026595213,
+				"openness": 1.2021877671432513,
+				"cold": -1.148887128723636,
+				"sexual_focus": 0,
+				"religion_oriented": 0,
+				"happiness": 5.383250521194872,
+				"food_focus": 2.1739129999999998,
+				"adjustment": 1.6662773730371612,
+				"achievement_driven": 4.657542818264134,
+				"friend_focus": 0,
+				"extraversion": 4.475920380879042,
+				"depression": -1.3715728226623187,
+				"agreeable": 0.0452582215096029,
+				"independent": -4.414607477655571,
+				"type_a": 10.829524593225575,
+				"workhorse": -1.4876493431770696,
+				"reward_bias": 0.9661836,
+				"insecure": -1.4958986565350698,
+				"leisure_oriented": 1.9323671,
+				"impulsive": 0.6758908088812738,
+				"thinking_style": 0.7821265792726622,
+				"persuasive": 2.608645305227462,
+				"power_driven": 6.4361632363375145,
+				"money_oriented": 0.9661836,
+				"health_oriented": 0.4830918,
+				"work_oriented": 2.5
+			},
+			"warnings": {}
+		},
+		"personality_snapshot": [
+			{
+				"description": "Likely has good social skills and typically gets along well with others. Likely a relatively grounded person who values friendships, works hard, and has healthy life goals.",
+				"summary": "Well-adjusted"
+			},
+			{
+				"description": "Able to face stressful situations without becoming upset or rattled. Remains calm most of the time, rarely gets irate, and is not easily embarrassed.",
+				"summary": "Calm and collected"
+			},
+			{
+				"description": "Likely a workaholic with a very intense drive to succeed. May often talk over and interrupt other people, can be lacking in patience, frequently stressed, and may have a short temper.",
+				"summary": "Type A"
+			}
+		],
+		"communication_recommendation": "Don't be afraid to use humor to lighten the conversation. They may get impatient if you're moving too slowly. Get to the point quickly and don't waste their time."
+	}
+}
+{
+	"_id": {
+		"$oid": "XXXXXXXXXXXXXXXXXXXXXXXX"
+	},
+	"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+	"created_time": 1.48094430023e+12,
+	"assessment": {
+		"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"user_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"cookie": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"quiz_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+		"submissions": [
+			{
+				"text": "Some people think I am a workaholic.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I wish I were more creative.",
+				"scale_code": "IMA",
+				"reversed": true,
+				"response": true
+			},
+			{
+				"text": "My friends think my ideas are pretty wild.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I schedule my work carefully in advance.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "People describe me as unconventional.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am very conscientious about my work.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I sometimes enjoy shocking other people.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I sometimes feel I have special talents and abilities.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am sometimes slow finishing things because I am so careful.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "Some people think I am eccentric.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am fussy about schedules and timing.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I often notice things that others overlook.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I like to make a schedule and stick to it.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "In my work, I would rather be slow than sloppy.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I have high standards for my performance at work.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am known as a creative problem solver.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am a well organized person.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I have a talent for anticipating the future.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I don't like work that requires close attention to details.",
+				"scale_code": "DIL",
+				"reversed": true,
+				"response": true
+			},
+			{
+				"text": "I often know what people will say before they speak.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "Many of my ideas are ahead of their time.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I take pride in the accuracy and precision of my work.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "Others think I am a perfectionist.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am at my best when I am using my imagination.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "If I want something done right I usually have to do it myself.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I am more imaginative than most people.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "Sometimes I know what people are going to say before they say it.",
+				"scale_code": "IMA",
+				"reversed": false,
+				"response": true
+			},
+			{
+				"text": "I tend to be a perfectionist about my work.",
+				"scale_code": "DIL",
+				"reversed": false,
+				"response": true
+			}
+		],
+		"results": {
+			"scales": [
+				{
+					"scale": {
+						"name": "Imaginative",
+						"code": "IMA",
+						"multiplier": 1
+					},
+					"raw_score": 13
+				},
+				{
+					"scale": {
+						"name": "Diligent",
+						"code": "DIL",
+						"multiplier": -1
+					},
+					"raw_score": 13
+				}
+			],
+			"quiz": {
+				"raw_score": 0,
+				"evaluation": {
+					"percentile": 78,
+					"persona": {
+						"name": "Dreamer",
+						"image": [
+							{
+								"likes": [
+									"FRIENDS (TV Show)",
+									"Friends - TV show"
+								],
+								"url": "https://imgur.com/09QmEmf.png",
+								"name": "Phoebe Buffay"
+							},
+							{
+								"likes": [
+									"Harry Potter",
+									"Harry Potter and the Sacred Text",
+									"Harry Potter Fans",
+									"Harry Potter Fans club",
+									"Harry Potter and the Cursed Child",
+									"Harry Potter Community",
+									"Harry Potter Fanatics",
+									"Harry Potter Fans"
+								],
+								"url": "https://imgur.com/12WmuEV.png",
+								"name": "Luna Lovegood"
+							},
+							{
+								"likes": [
+									"Game of Thrones",
+									"Game of Thrones Fans",
+									"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+								],
+								"url": "https://imgur.com/td6MeiW.png",
+								"name": "Bran Stark"
+							},
+							{
+								"likes": [
+									"Apple",
+									"Technology"
+								],
+								"url": "https://imgur.com/F4APj2m.png",
+								"name": "Steve Jobs"
+							},
+							{
+								"likes": [],
+								"url": "https://imgur.com/9lC3d5R.png",
+								"name": "Dreamer"
+							}
+						],
+						"feedback": "You like to think differently. You have a hard time containing your creativity, maybe even eccentricity, and never shy from challenging the status quo. You live for bold, game-changing ideas, albeit not always good ones, and tend to leave others to sweat the details of how to actually get them done."
+					}
+				}
+			}
+		},
+		"created_time": 1.480944297824e+12,
+		"is_personalized": false,
+		"quiz": {
+			"_id": "XXXXXXXXXXXXXXXXXXXXXXXX",
+			"name": "Doer or Dreamer",
+			"published": true,
+			"scales": [
+				{
+					"name": "Imaginative",
+					"code": "IMA",
+					"multiplier": 1
+				},
+				{
+					"name": "Diligent",
+					"code": "DIL",
+					"multiplier": -1
+				}
+			],
+			"background_image": {
+				"url": "https://imgur.com/msO580p.png"
+			},
+			"personas": [
+				{
+					"name": "Doer",
+					"image": [
+						{
+							"likes": [
+								"FRIENDS (TV Show)",
+								"Friends - TV show"
+							],
+							"url": "https://imgur.com/1Gfze2O.png",
+							"name": "Monica Geller"
+						},
+						{
+							"likes": [
+								"Harry Potter",
+								"Harry Potter and the Sacred Text",
+								"Harry Potter Fans",
+								"Harry Potter Fans club",
+								"Harry Potter and the Cursed Child",
+								"Harry Potter Community",
+								"Harry Potter Fanatics",
+								"Harry Potter Fans"
+							],
+							"url": "https://imgur.com/NDHKCOP.png",
+							"name": "Hermione Granger"
+						},
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/OWUzVhO.png",
+							"name": "Meera Reed"
+						},
+						{
+							"likes": [
+								"Apple",
+								"Technology"
+							],
+							"url": "https://imgur.com/xyFATpI.png",
+							"name": "Steve Wozniak"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/gbsKjVc.png",
+							"name": "Doer"
+						}
+					],
+					"feedback": "You’re a classic overachiever—practical and organized, even if at times you can be a little rigid and obsessive. You revel in making lists and knowing exactly what awaits you each day. When your friends need someone they can be sure won’t drop the ball, you’re the one they come to."
+				},
+				{
+					"name": "Dreamer",
+					"image": [
+						{
+							"likes": [
+								"FRIENDS (TV Show)",
+								"Friends - TV show"
+							],
+							"url": "https://imgur.com/09QmEmf.png",
+							"name": "Phoebe Buffay"
+						},
+						{
+							"likes": [
+								"Harry Potter",
+								"Harry Potter and the Sacred Text",
+								"Harry Potter Fans",
+								"Harry Potter Fans club",
+								"Harry Potter and the Cursed Child",
+								"Harry Potter Community",
+								"Harry Potter Fanatics",
+								"Harry Potter Fans"
+							],
+							"url": "https://imgur.com/12WmuEV.png",
+							"name": "Luna Lovegood"
+						},
+						{
+							"likes": [
+								"Game of Thrones",
+								"Game of Thrones Fans",
+								"A Game of Thrones - A Song of Ice and Fire by George R R Martin"
+							],
+							"url": "https://imgur.com/td6MeiW.png",
+							"name": "Bran Stark"
+						},
+						{
+							"likes": [
+								"Apple",
+								"Technology"
+							],
+							"url": "https://imgur.com/F4APj2m.png",
+							"name": "Steve Jobs"
+						},
+						{
+							"likes": [],
+							"url": "https://imgur.com/9lC3d5R.png",
+							"name": "Dreamer"
+						}
+					],
+					"feedback": "You like to think differently. You have a hard time containing your creativity, maybe even eccentricity, and never shy from challenging the status quo. You live for bold, game-changing ideas, albeit not always good ones, and tend to leave others to sweat the details of how to actually get them done."
+				}
+			],
+			"items": [
+				{
+					"text": "Some people think I am a workaholic.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "I wish I were more creative.",
+					"scale_code": "IMA",
+					"reversed": true
+				},
+				{
+					"text": "My friends think my ideas are pretty wild.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I schedule my work carefully in advance.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "People describe me as unconventional.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I am very conscientious about my work.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "I sometimes enjoy shocking other people.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I sometimes feel I have special talents and abilities.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I am sometimes slow finishing things because I am so careful.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "Some people think I am eccentric.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I am fussy about schedules and timing.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "I often notice things that others overlook.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I like to make a schedule and stick to it.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "In my work, I would rather be slow than sloppy.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "I have high standards for my performance at work.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "I am known as a creative problem solver.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I am a well organized person.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "I have a talent for anticipating the future.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I don't like work that requires close attention to details.",
+					"scale_code": "DIL",
+					"reversed": true
+				},
+				{
+					"text": "I often know what people will say before they speak.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "Many of my ideas are ahead of their time.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I take pride in the accuracy and precision of my work.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "Others think I am a perfectionist.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "I am at my best when I am using my imagination.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "If I want something done right I usually have to do it myself.",
+					"scale_code": "DIL",
+					"reversed": false
+				},
+				{
+					"text": "I am more imaginative than most people.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "Sometimes I know what people are going to say before they say it.",
+					"scale_code": "IMA",
+					"reversed": false
+				},
+				{
+					"text": "I tend to be a perfectionist about my work.",
+					"scale_code": "DIL",
+					"reversed": false
+				}
+			],
+			"scorer": {
+				"0": {
+					"percentile": 78,
+					"persona_name": "Dreamer"
+				},
+				"1": {
+					"percentile": 85,
+					"persona_name": "Dreamer"
+				},
+				"2": {
+					"percentile": 90,
+					"persona_name": "Dreamer"
+				},
+				"3": {
+					"percentile": 94,
+					"persona_name": "Dreamer"
+				},
+				"4": {
+					"percentile": 96,
+					"persona_name": "Dreamer"
+				},
+				"5": {
+					"percentile": 97,
+					"persona_name": "Dreamer"
+				},
+				"6": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"7": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"8": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"9": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"10": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"11": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"12": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"13": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"14": {
+					"percentile": 99,
+					"persona_name": "Dreamer"
+				},
+				"-1": {
+					"percentile": 69,
+					"persona_name": "Dreamer"
+				},
+				"-2": {
+					"percentile": 59,
+					"persona_name": "Dreamer"
+				},
+				"-3": {
+					"percentile": 53,
+					"persona_name": "Doer"
+				},
+				"-4": {
+					"percentile": 63,
+					"persona_name": "Doer"
+				},
+				"-5": {
+					"percentile": 73,
+					"persona_name": "Doer"
+				},
+				"-6": {
+					"percentile": 81,
+					"persona_name": "Doer"
+				},
+				"-7": {
+					"percentile": 88,
+					"persona_name": "Doer"
+				},
+				"-8": {
+					"percentile": 93,
+					"persona_name": "Doer"
+				},
+				"-9": {
+					"percentile": 96,
+					"persona_name": "Doer"
+				},
+				"-10": {
+					"percentile": 98,
+					"persona_name": "Doer"
+				},
+				"-11": {
+					"percentile": 99,
+					"persona_name": "Doer"
+				},
+				"-12": {
+					"percentile": 99,
+					"persona_name": "Doer"
+				},
+				"-13": {
+					"percentile": 99,
+					"persona_name": "Doer"
+				},
+				"-14": {
+					"percentile": 99,
+					"persona_name": "Doer"
+				}
+			}
+		}
+	},
+	"num_friends": 4,
+	"post_analysis": {
+		"liwc_scores": {
+			"tone": 38.861595,
+			"sixLtr": 0.19505678,
+			"clout": 69.17864,
+			"wps": 18.256098,
+			"analytic": 88.8835,
+			"wc": 1497,
+			"dic": 0.8022712,
+			"authentic": 50.7259,
+			"categories": {
+				"family": 0.0013360054,
+				"feel": 0.010688043,
+				"money": 0.016700067,
+				"insight": 0.016700067,
+				"number": 0.038744155,
+				"Parenth": 0,
+				"cogproc": 0.0748163,
+				"OtherP": 0.009352038,
+				"female": 0.02004008,
+				"negate": 0.010688043,
+				"negemo": 0.0140280565,
+				"differ": 0.021376086,
+				"death": 0.0013360054,
+				"adverb": 0.04208417,
+				"informal": 0.0033400133,
+				"ipron": 0.045424182,
+				"percept": 0.036740147,
+				"quant": 0.02004008,
+				"Exclam": 0.016700067,
+				"adj": 0.050768204,
+				"prep": 0.14295258,
+				"friend": 0.0013360054,
+				"function": 0.46092185,
+				"bio": 0.023380093,
+				"risk": 0.0033400133,
+				"leisure": 0.015364061,
+				"Quote": 0.0066800267,
+				"verb": 0.1249165,
+				"hear": 0.009352038,
+				"they": 0.006012024,
+				"affect": 0.036072146,
+				"you": 0.008684034,
+				"work": 0.026052104,
+				"Period": 0.053440213,
+				"achieve": 0.0073480294,
+				"focusfuture": 0.014696059,
+				"auxverb": 0.06479626,
+				"male": 0.0053440216,
+				"shehe": 0.02004008,
+				"SemiC": 0.0013360054,
+				"relig": 0.0013360054,
+				"compare": 0.023380093,
+				"pronoun": 0.090848364,
+				"QMark": 0.0026720108,
+				"certain": 0.01002004,
+				"assent": 0.0013360054,
+				"we": 0.004676019,
+				"sad": 0.006012024,
+				"affiliation": 0.020708082,
+				"see": 0.014696059,
+				"anger": 0.0026720108,
+				"home": 0.002004008,
+				"conj": 0.054108217,
+				"sexual": 0,
+				"ppron": 0.045424182,
+				"Dash": 0.0140280565,
+				"space": 0.08750835,
+				"filler": 0,
+				"anx": 0.002004008,
+				"focuspresent": 0.052772213,
+				"netspeak": 0.0013360054,
+				"health": 0.0066800267,
+				"discrep": 0.004676019,
+				"relativ": 0.19171676,
+				"Colon": 0.0006680027,
+				"nonflu": 0.0006680027,
+				"cause": 0.012024048,
+				"body": 0.008684034,
+				"tentat": 0.015364061,
+				"power": 0.029392118,
+				"interrog": 0.015364061,
+				"social": 0.0748163,
+				"drives": 0.06479626,
+				"focuspast": 0.054108217,
+				"article": 0.085504346,
+				"AllPunc": 0.1756847,
+				"Apostro": 0.017368069,
+				"i": 0.006012024,
+				"posemo": 0.021376086,
+				"ingest": 0.0066800267,
+				"motion": 0.029392118,
+				"swear": 0,
+				"Comma": 0.053440213,
+				"time": 0.079492316,
+				"reward": 0.008016032
+			}
+		},
+		"receptiviti_scores": {
+			"percentiles": {
+				"netspeak_focus": 27.74419666436836,
+				"body_focus": 98.6652538868981,
+				"conscientious": 83.69444832845868,
+				"family_oriented": 17.940196924167402,
+				"neuroticism": 25.75132603502053,
+				"social_skills": 27.965939230434657,
+				"openness": 93.3854620014827,
+				"cold": 65.78040379573541,
+				"sexual_focus": 38.59850307933812,
+				"religion_oriented": 56.304661123537784,
+				"happiness": 14.377170647029704,
+				"food_focus": 68.83062189622564,
+				"adjustment": 93.71754336882947,
+				"achievement_driven": 5.305305918883282,
+				"friend_focus": 46.562065302990796,
+				"extraversion": 17.203744032598646,
+				"depression": 54.43290250845559,
+				"agreeable": 49.94797233474522,
+				"independent": 88.126305469323,
+				"type_a": 28.18498448370565,
+				"workhorse": 40.54104664749131,
+				"reward_bias": 20.70375289351852,
+				"insecure": 71.14845699261636,
+				"leisure_oriented": 81.47864141560245,
+				"impulsive": 38.756078551456724,
+				"thinking_style": 93.79176548989861,
+				"persuasive": 57.27881532539885,
+				"power_driven": 59.41335282266421,
+				"money_oriented": 92.76414516961113,
+				"health_oriented": 73.42150116630766,
+				"work_oriented": 84.07462308539698
+			},
+			"raw_scores": {
+				"netspeak_focus": 0.13360054000000002,
+				"body_focus": 0.8684034,
+				"conscientious": 2.0224913200710763,
+				"family_oriented": 1.8658150104703848,
+				"neuroticism": 4.823789911091785,
+				"social_skills": 0.8696889329970832,
+				"openness": 3.2662579531736182,
+				"cold": -0.39762618678138195,
+				"sexual_focus": 0,
+				"religion_oriented": 0.13360054000000002,
+				"happiness": 3.080991848633097,
+				"food_focus": 0.66800267,
+				"adjustment": -1.1619403281893321,
+				"achievement_driven": 1.7534576981515186,
+				"friend_focus": 0.13360054000000002,
+				"extraversion": 1.4126652852645045,
+				"depression": 1.0474355775949316,
+				"agreeable": -0.12571324274303702,
+				"independent": -2.7350127598162457,
+				"type_a": 6.6745312628583875,
+				"workhorse": -3.126108216531155,
+				"reward_bias": 0.46760187,
+				"insecure": 1.6762411674247315,
+				"leisure_oriented": 1.5364061,
+				"impulsive": 1.3912795965266378,
+				"thinking_style": 0.5630315010745542,
+				"persuasive": -0.7025948563657827,
+				"power_driven": 5.85671325701308,
+				"money_oriented": 1.6700066999999998,
+				"health_oriented": 0.66800267,
+				"work_oriented": 2.5
+			},
+			"warnings": {}
+		},
+		"personality_snapshot": [
+			{
+				"description": "May appear to be lacking in ambition, and not particularly concerned with how others perceive their competence. Values friendship and loyalty, and concerned with the welfare of others. Prefers to succeed as part of a group rather than as an individual.",
+				"summary": "May lack ambition"
+			},
+			{
+				"description": "Likely a focused troubleshooter and analytical thinker who relies on facts and data to understand and solve challenges. Tends to think in a structured and logical manner, and typically approaches problems by analyzing them from multiple perspectives.",
+				"summary": "Analytical thinker"
+			},
+			{
+				"description": "Likely has good social skills and typically gets along well with others. Likely a relatively grounded person who values friendships, works hard, and has healthy life goals.",
+				"summary": "Well-adjusted"
+			}
+		],
+		"communication_recommendation": "Don't expect them to go the extra mile. Get to the point quickly and don't waste their time. Don't be too formal."
+	}
+}
+
